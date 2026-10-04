@@ -1,0 +1,13 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Variáveis de ambiente e senhas
+.env
+
+# Dados brutos das estações
+dados_brutos/
+
+# Cache do Python
+__pycache__/
+*.pyc
