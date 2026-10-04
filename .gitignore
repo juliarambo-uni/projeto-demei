@@ -6,7 +6,7 @@ venv/
 .env
 
 # Dados brutos das estações
-dados_brutos/
+**/dados_brutos/
 
 # Cache do Python
 __pycache__/
