@@ -1,0 +1,2598 @@
+{
+  "estacao": "UNIJUI - SEDE (GAIC)",
+  "gerado_em": "2026-10-14 20:59:14",
+  "periodo_horas": 24,
+  "total_leituras": 287,
+  "unidades": {
+    "radiacao_solar": "W/m²",
+    "radiacao_solar_media": "W/m²",
+    "temperatura": "°C",
+    "temperatura_media": "°C",
+    "bateria": "V"
+  },
+  "leituras": [
+    {
+      "data_hora_utc": "2026-10-14T00:00:00Z",
+      "data_hora_local": "2026-10-13T21:00:00-0300",
+      "bateria": 4.131010928961749,
+      "radiacao_solar": 3.2154301583910865,
+      "radiacao_solar_media": 2.309083938598633,
+      "temperatura": 21.028878479598372,
+      "temperatura_media": 21.023659408092495
+    },
+    {
+      "data_hora_utc": "2026-10-14T00:05:00Z",
+      "data_hora_local": "2026-10-13T21:05:00-0300",
+      "bateria": 4.084426229508197,
+      "radiacao_solar": 3.293557542649694,
+      "radiacao_solar_media": 3.176403045654297,
+      "temperatura": 21.044536616962187,
+      "temperatura_media": 21.03226780891418
+    },
+    {
+      "data_hora_utc": "2026-10-14T00:10:00Z",
+      "data_hora_local": "2026-10-13T21:10:00-0300",
+      "bateria": 4.134016393442623,
+      "radiacao_solar": 3.137302774132536,
+      "radiacao_solar_media": 3.165912628173828,
+      "temperatura": 21.060194754325998,
+      "temperatura_media": 21.036185324192044
+    },
+    {
+      "data_hora_utc": "2026-10-14T00:15:00Z",
+      "data_hora_local": "2026-10-13T21:15:00-0300",
+      "bateria": 4.087431693989071,
+      "radiacao_solar": 3.2154301583910865,
+      "radiacao_solar_media": 3.1815052032470703,
+      "temperatura": 21.083681960371713,
+      "temperatura_media": 21.04375213384628
+    },
+    {
+      "data_hora_utc": "2026-10-14T00:20:00Z",
+      "data_hora_local": "2026-10-13T21:20:00-0300",
+      "bateria": 4.132513661202186,
+      "radiacao_solar": 2.746665852839783,
+      "radiacao_solar_media": 3.051280975341797,
+      "temperatura": 20.715715732322153,
+      "temperatura_media": 20.907786488533016
+    },
+    {
+      "data_hora_utc": "2026-10-14T00:25:00Z",
+      "data_hora_local": "2026-10-13T21:25:00-0300",
+      "bateria": 4.0829234972677595,
+      "radiacao_solar": 3.4498123111666814,
+      "radiacao_solar_media": 2.8195858001708984,
+      "temperatura": 20.41821112240974,
+      "temperatura_media": 20.5499991774559
+    },
+    {
+      "data_hora_utc": "2026-10-14T00:30:00Z",
+      "data_hora_local": "2026-10-13T21:30:00-0300",
+      "bateria": 4.129508196721312,
+      "radiacao_solar": 3.293557542649694,
+      "radiacao_solar_media": 3.1137466430664062,
+      "temperatura": 20.410382053727833,
+      "temperatura_media": 20.39837688207626
+    },
+    {
+      "data_hora_utc": "2026-10-14T00:35:00Z",
+      "data_hora_local": "2026-10-13T21:35:00-0300",
+      "bateria": 4.087431693989071,
+      "radiacao_solar": 3.293557542649694,
+      "radiacao_solar_media": 3.108692169189453,
+      "temperatura": 20.339920435590685,
+      "temperatura_media": 20.343312621116635
+    },
+    {
+      "data_hora_utc": "2026-10-14T00:40:00Z",
+      "data_hora_local": "2026-10-13T21:40:00-0300",
+      "bateria": 4.131010928961749,
+      "radiacao_solar": 3.137302774132536,
+      "radiacao_solar_media": 3.1008243560791016,
+      "temperatura": 20.300775092181155,
+      "temperatura_media": 20.32869905233383
+    },
+    {
+      "data_hora_utc": "2026-10-14T00:45:00Z",
+      "data_hora_local": "2026-10-13T21:45:00-0300",
+      "bateria": 4.084426229508197,
+      "radiacao_solar": 2.4341563158055806,
+      "radiacao_solar_media": 2.770090103149414,
+      "temperatura": 20.269458817453533,
+      "temperatura_media": 20.26971876621246
+    },
+    {
+      "data_hora_utc": "2026-10-14T00:50:00Z",
+      "data_hora_local": "2026-10-13T21:50:00-0300",
+      "bateria": 4.1265027322404375,
+      "radiacao_solar": 2.4341563158055806,
+      "radiacao_solar_media": 2.402925491333008,
+      "temperatura": 20.245971611407818,
+      "temperatura_media": 20.21308839321136
+    },
+    {
+      "data_hora_utc": "2026-10-14T00:55:00Z",
+      "data_hora_local": "2026-10-13T21:55:00-0300",
+      "bateria": 4.076912568306011,
+      "radiacao_solar": 2.5904110843226817,
+      "radiacao_solar_media": 2.3690223693847656,
+      "temperatura": 20.144193718543043,
+      "temperatura_media": 20.182554423809048
+    },
+    {
+      "data_hora_utc": "2026-10-14T01:00:00Z",
+      "data_hora_local": "2026-10-13T22:00:00-0300",
+      "bateria": 4.129508196721312,
+      "radiacao_solar": 1.6528824732200178,
+      "radiacao_solar_media": 2.1007537841796875,
+      "temperatura": 20.042415825678273,
+      "temperatura_media": 20.12723088264465
+    },
+    {
+      "data_hora_utc": "2026-10-14T01:05:00Z",
+      "data_hora_local": "2026-10-13T22:05:00-0300",
+      "bateria": 4.087431693989071,
+      "radiacao_solar": 1.4185003204444229,
+      "radiacao_solar_media": 1.5642642974853516,
+      "temperatura": 19.924979795449687,
+      "temperatura_media": 20.02414762973785
+    },
+    {
+      "data_hora_utc": "2026-10-14T01:10:00Z",
+      "data_hora_local": "2026-10-13T22:10:00-0300",
+      "bateria": 4.128005464480875,
+      "radiacao_solar": 1.2622455519272648,
+      "radiacao_solar_media": 1.5590667724609375,
+      "temperatura": 19.99544141358684,
+      "temperatura_media": 19.97873932123184
+    },
+    {
+      "data_hora_utc": "2026-10-14T01:15:00Z",
+      "data_hora_local": "2026-10-13T22:15:00-0300",
+      "bateria": 4.079918032786885,
+      "radiacao_solar": 1.6528824732200178,
+      "radiacao_solar_media": 1.4601707458496094,
+      "temperatura": 20.018928619632558,
+      "temperatura_media": 19.990222156047817
+    },
+    {
+      "data_hora_utc": "2026-10-14T01:20:00Z",
+      "data_hora_local": "2026-10-13T22:20:00-0300",
+      "bateria": 4.1265027322404375,
+      "radiacao_solar": 1.1841181676686574,
+      "radiacao_solar_media": 1.4523506164550781,
+      "temperatura": 20.003270482268746,
+      "temperatura_media": 20.01031637191772
+    },
+    {
+      "data_hora_utc": "2026-10-14T01:25:00Z",
+      "data_hora_local": "2026-10-13T22:25:00-0300",
+      "bateria": 4.073907103825137,
+      "radiacao_solar": 1.4966277047029166,
+      "radiacao_solar_media": 1.4419078826904297,
+      "temperatura": 20.018928619632558,
+      "temperatura_media": 20.0332835316658
+    },
+    {
+      "data_hora_utc": "2026-10-14T01:30:00Z",
+      "data_hora_local": "2026-10-13T22:30:00-0300",
+      "bateria": 4.123497267759563,
+      "radiacao_solar": 1.3403729361858154,
+      "radiacao_solar_media": 1.3846397399902344,
+      "temperatura": 19.964125138859217,
+      "temperatura_media": 20.036414265632626
+    },
+    {
+      "data_hora_utc": "2026-10-14T01:35:00Z",
+      "data_hora_local": "2026-10-13T22:35:00-0300",
+      "bateria": 4.079918032786885,
+      "radiacao_solar": 1.2622455519272648,
+      "radiacao_solar_media": 1.4262676239013672,
+      "temperatura": 19.99544141358684,
+      "temperatura_media": 20.009271800518032
+    },
+    {
+      "data_hora_utc": "2026-10-14T01:40:00Z",
+      "data_hora_local": "2026-10-13T22:40:00-0300",
+      "bateria": 4.123497267759563,
+      "radiacao_solar": 1.574755088961524,
+      "radiacao_solar_media": 1.374197006225586,
+      "temperatura": 19.932808864131594,
+      "temperatura_media": 19.978740811347958
+    },
+    {
+      "data_hora_utc": "2026-10-14T01:45:00Z",
+      "data_hora_local": "2026-10-13T22:45:00-0300",
+      "bateria": 4.076912568306011,
+      "radiacao_solar": 1.7310098574785684,
+      "radiacao_solar_media": 1.5227794647216797,
+      "temperatura": 19.987612344904935,
+      "temperatura_media": 19.978480041027066
+    },
+    {
+      "data_hora_utc": "2026-10-14T01:50:00Z",
+      "data_hora_local": "2026-10-13T22:50:00-0300",
+      "bateria": 4.125,
+      "radiacao_solar": 1.7310098574785684,
+      "radiacao_solar_media": 1.5148162841796875,
+      "temperatura": 19.924979795449687,
+      "temperatura_media": 19.960212707519528
+    },
+    {
+      "data_hora_utc": "2026-10-14T01:55:00Z",
+      "data_hora_local": "2026-10-13T22:55:00-0300",
+      "bateria": 4.0724043715847,
+      "radiacao_solar": 1.2622455519272648,
+      "radiacao_solar_media": 1.4887809753417969,
+      "temperatura": 19.932808864131594,
+      "temperatura_media": 19.95681673288345
+    },
+    {
+      "data_hora_utc": "2026-10-14T02:00:00Z",
+      "data_hora_local": "2026-10-13T23:00:00-0300",
+      "bateria": 4.123497267759563,
+      "radiacao_solar": 1.574755088961524,
+      "radiacao_solar_media": 1.4496326446533203,
+      "temperatura": 19.964125138859217,
+      "temperatura_media": 19.96386647224426
+    },
+    {
+      "data_hora_utc": "2026-10-14T02:05:00Z",
+      "data_hora_local": "2026-10-13T23:05:00-0300",
+      "bateria": 4.078415300546449,
+      "radiacao_solar": 1.4966277047029166,
+      "radiacao_solar_media": 1.5591621398925781,
+      "temperatura": 20.03458675699637,
+      "temperatura_media": 19.995442032814022
+    },
+    {
+      "data_hora_utc": "2026-10-14T02:10:00Z",
+      "data_hora_local": "2026-10-13T23:10:00-0300",
+      "bateria": 4.118989071038252,
+      "radiacao_solar": 1.4966277047029166,
+      "radiacao_solar_media": 1.460123062133789,
+      "temperatura": 20.042415825678273,
+      "temperatura_media": 20.041111111640927
+    },
+    {
+      "data_hora_utc": "2026-10-14T02:15:00Z",
+      "data_hora_local": "2026-10-13T23:15:00-0300",
+      "bateria": 4.073907103825137,
+      "radiacao_solar": 1.02786339915167,
+      "radiacao_solar_media": 1.2830257415771484,
+      "temperatura": 20.003270482268746,
+      "temperatura_media": 20.0413703918457
+    },
+    {
+      "data_hora_utc": "2026-10-14T02:20:00Z",
+      "data_hora_local": "2026-10-13T23:20:00-0300",
+      "bateria": 4.120491803278689,
+      "radiacao_solar": 1.6528824732200178,
+      "radiacao_solar_media": 1.1841297149658203,
+      "temperatura": 19.99544141358684,
+      "temperatura_media": 19.994400441646572
+    },
+    {
+      "data_hora_utc": "2026-10-14T02:25:00Z",
+      "data_hora_local": "2026-10-13T23:25:00-0300",
+      "bateria": 4.0693989071038255,
+      "radiacao_solar": 1.4966277047029166,
+      "radiacao_solar_media": 1.2778759002685547,
+      "temperatura": 19.917150726767783,
+      "temperatura_media": 19.961254298686978
+    },
+    {
+      "data_hora_utc": "2026-10-14T02:30:00Z",
+      "data_hora_local": "2026-10-13T23:30:00-0300",
+      "bateria": 4.118989071038252,
+      "radiacao_solar": 1.4185003204444229,
+      "radiacao_solar_media": 1.33514404296875,
+      "temperatura": 19.917150726767783,
+      "temperatura_media": 19.93385255336761
+    },
+    {
+      "data_hora_utc": "2026-10-14T02:35:00Z",
+      "data_hora_local": "2026-10-13T23:35:00-0300",
+      "bateria": 4.075409836065574,
+      "radiacao_solar": 1.02786339915167,
+      "radiacao_solar_media": 1.24664306640625,
+      "temperatura": 19.932808864131594,
+      "temperatura_media": 19.90358233451843
+    },
+    {
+      "data_hora_utc": "2026-10-14T02:40:00Z",
+      "data_hora_local": "2026-10-13T23:40:00-0300",
+      "bateria": 4.118989071038252,
+      "radiacao_solar": 1.4185003204444229,
+      "radiacao_solar_media": 1.2465476989746094,
+      "temperatura": 19.893663520722065,
+      "temperatura_media": 19.89653408527374
+    },
+    {
+      "data_hora_utc": "2026-10-14T02:45:00Z",
+      "data_hora_local": "2026-10-13T23:45:00-0300",
+      "bateria": 4.067896174863388,
+      "radiacao_solar": 1.4185003204444229,
+      "radiacao_solar_media": 1.3195514678955078,
+      "temperatura": 19.917150726767783,
+      "temperatura_media": 19.906452298164364
+    },
+    {
+      "data_hora_utc": "2026-10-14T02:50:00Z",
+      "data_hora_local": "2026-10-13T23:50:00-0300",
+      "bateria": 4.115983606557378,
+      "radiacao_solar": 1.3403729361858154,
+      "radiacao_solar_media": 1.3194561004638672,
+      "temperatura": 19.948467001495406,
+      "temperatura_media": 19.93959248065948
+    },
+    {
+      "data_hora_utc": "2026-10-14T02:55:00Z",
+      "data_hora_local": "2026-10-13T23:55:00-0300",
+      "bateria": 4.067896174863388,
+      "radiacao_solar": 1.1059907834101637,
+      "radiacao_solar_media": 1.2023448944091797,
+      "temperatura": 19.979783276223028,
+      "temperatura_media": 19.972737133502957
+    },
+    {
+      "data_hora_utc": "2026-10-14T03:00:00Z",
+      "data_hora_local": "2026-10-14T00:00:00-0300",
+      "bateria": 4.117486338797814,
+      "radiacao_solar": 1.1059907834101637,
+      "radiacao_solar_media": 1.2570381164550781,
+      "temperatura": 20.018928619632558,
+      "temperatura_media": 19.99622285366058
+    },
+    {
+      "data_hora_utc": "2026-10-14T03:05:00Z",
+      "data_hora_local": "2026-10-14T00:05:00-0300",
+      "bateria": 4.075409836065574,
+      "radiacao_solar": 1.4185003204444229,
+      "radiacao_solar_media": 1.2492656707763672,
+      "temperatura": 20.10504837513352,
+      "temperatura_media": 20.036153495311734
+    },
+    {
+      "data_hora_utc": "2026-10-14T03:10:00Z",
+      "data_hora_local": "2026-10-14T00:10:00-0300",
+      "bateria": 4.117486338797814,
+      "radiacao_solar": 0.8716086306345119,
+      "radiacao_solar_media": 1.1840343475341797,
+      "temperatura": 20.065903031723987,
+      "temperatura_media": 20.060944557189938
+    },
+    {
+      "data_hora_utc": "2026-10-14T03:15:00Z",
+      "data_hora_local": "2026-10-14T00:15:00-0300",
+      "bateria": 4.070901639344263,
+      "radiacao_solar": 1.6528824732200178,
+      "radiacao_solar_media": 1.2830734252929688,
+      "temperatura": 20.11287744381542,
+      "temperatura_media": 20.08573710918426
+    },
+    {
+      "data_hora_utc": "2026-10-14T03:20:00Z",
+      "data_hora_local": "2026-10-14T00:20:00-0300",
+      "bateria": 4.111475409836066,
+      "radiacao_solar": 1.4185003204444229,
+      "radiacao_solar_media": 1.2622356414794922,
+      "temperatura": 20.03458675699637,
+      "temperatura_media": 20.071904361248013
+    },
+    {
+      "data_hora_utc": "2026-10-14T03:25:00Z",
+      "data_hora_local": "2026-10-14T00:25:00-0300",
+      "bateria": 4.094945355191257,
+      "radiacao_solar": 1.8091372417371758,
+      "radiacao_solar_media": 1.3768196105957031,
+      "temperatura": 20.02675768831446,
+      "temperatura_media": 20.056249201297756
+    },
+    {
+      "data_hora_utc": "2026-10-14T03:30:00Z",
+      "data_hora_local": "2026-10-14T00:30:00-0300",
+      "bateria": 4.115983606557378,
+      "radiacao_solar": 1.4185003204444229,
+      "radiacao_solar_media": 1.4080047607421875,
+      "temperatura": 20.065903031723987,
+      "temperatura_media": 20.055985450744625
+    },
+    {
+      "data_hora_utc": "2026-10-14T03:35:00Z",
+      "data_hora_local": "2026-10-14T00:35:00-0300",
+      "bateria": 4.0724043715847,
+      "radiacao_solar": 1.6528824732200178,
+      "radiacao_solar_media": 1.4783859252929688,
+      "temperatura": 20.09721930645161,
+      "temperatura_media": 20.077906548976895
+    },
+    {
+      "data_hora_utc": "2026-10-14T03:40:00Z",
+      "data_hora_local": "2026-10-14T00:40:00-0300",
+      "bateria": 4.111475409836066,
+      "radiacao_solar": 1.3403729361858154,
+      "radiacao_solar_media": 1.5200614929199219,
+      "temperatura": 20.09721930645161,
+      "temperatura_media": 20.094351470470425
+    },
+    {
+      "data_hora_utc": "2026-10-14T03:45:00Z",
+      "data_hora_local": "2026-10-14T00:45:00-0300",
+      "bateria": 4.066393442622951,
+      "radiacao_solar": 1.3403729361858154,
+      "radiacao_solar_media": 1.3585567474365234,
+      "temperatura": 20.01109955095065,
+      "temperatura_media": 20.04032731056213
+    },
+    {
+      "data_hora_utc": "2026-10-14T03:50:00Z",
+      "data_hora_local": "2026-10-14T00:50:00-0300",
+      "bateria": 4.112978142076503,
+      "radiacao_solar": 1.2622455519272648,
+      "radiacao_solar_media": 1.2908458709716797,
+      "temperatura": 19.97195420754112,
+      "temperatura_media": 19.981609284877774
+    },
+    {
+      "data_hora_utc": "2026-10-14T03:55:00Z",
+      "data_hora_local": "2026-10-14T00:55:00-0300",
+      "bateria": 4.06188524590164,
+      "radiacao_solar": 1.1841181676686574,
+      "radiacao_solar_media": 1.3117313385009766,
+      "temperatura": 19.878005383358254,
+      "temperatura_media": 19.93620097637176
+    },
+    {
+      "data_hora_utc": "2026-10-14T04:00:00Z",
+      "data_hora_local": "2026-10-14T01:00:00-0300",
+      "bateria": 4.112978142076503,
+      "radiacao_solar": 1.02786339915167,
+      "radiacao_solar_media": 1.165914535522461,
+      "temperatura": 19.838860039948724,
+      "temperatura_media": 19.859215617179867
+    },
+    {
+      "data_hora_utc": "2026-10-14T04:05:00Z",
+      "data_hora_local": "2026-10-14T01:05:00-0300",
+      "bateria": 4.0693989071038255,
+      "radiacao_solar": 0.9497360148930625,
+      "radiacao_solar_media": 1.2413501739501953,
+      "temperatura": 19.77622749049348,
+      "temperatura_media": 19.775444269180294
+    },
+    {
+      "data_hora_utc": "2026-10-14T04:10:00Z",
+      "data_hora_local": "2026-10-14T01:10:00-0300",
+      "bateria": 4.111475409836066,
+      "radiacao_solar": 0.9497360148930625,
+      "radiacao_solar_media": 1.197195053100586,
+      "temperatura": 19.697936803674427,
+      "temperatura_media": 19.716463983058926
+    },
+    {
+      "data_hora_utc": "2026-10-14T04:15:00Z",
+      "data_hora_local": "2026-10-14T01:15:00-0300",
+      "bateria": 4.064890710382514,
+      "radiacao_solar": 0.4809717093417589,
+      "radiacao_solar_media": 0.9731769561767578,
+      "temperatura": 19.619646116855368,
+      "temperatura_media": 19.670271873474118
+    },
+    {
+      "data_hora_utc": "2026-10-14T04:20:00Z",
+      "data_hora_local": "2026-10-14T01:20:00-0300",
+      "bateria": 4.112978142076503,
+      "radiacao_solar": 0.4028443250831515,
+      "radiacao_solar_media": 0.5147933959960938,
+      "temperatura": 19.67444959762871,
+      "temperatura_media": 19.63921934366226
+    },
+    {
+      "data_hora_utc": "2026-10-14T04:25:00Z",
+      "data_hora_local": "2026-10-14T01:25:00-0300",
+      "bateria": 4.111475409836066,
+      "radiacao_solar": 0.637226477858917,
+      "radiacao_solar_media": 0.24924278259277344,
+      "temperatura": 19.557013567400126,
+      "temperatura_media": 19.614425301551815
+    },
+    {
+      "data_hora_utc": "2026-10-14T04:30:00Z",
+      "data_hora_local": "2026-10-14T01:30:00-0300",
+      "bateria": 4.108469945355192,
+      "radiacao_solar": 0.2465895565660503,
+      "radiacao_solar_media": 0.1919269561767578,
+      "temperatura": 19.53352636135441,
+      "temperatura_media": 19.55831944942474
+    },
+    {
+      "data_hora_utc": "2026-10-14T04:35:00Z",
+      "data_hora_local": "2026-10-14T01:35:00-0300",
+      "bateria": 4.1099726775956285,
+      "radiacao_solar": 0.637226477858917,
+      "radiacao_solar_media": 0.2674579620361328,
+      "temperatura": 19.549184498718223,
+      "temperatura_media": 19.556753337383267
+    },
+    {
+      "data_hora_utc": "2026-10-14T04:40:00Z",
+      "data_hora_local": "2026-10-14T01:40:00-0300",
+      "bateria": 4.108469945355192,
+      "radiacao_solar": 0.4809717093417589,
+      "radiacao_solar_media": 0.45228004455566406,
+      "temperatura": 19.564842636082034,
+      "temperatura_media": 19.55597102642059
+    },
+    {
+      "data_hora_utc": "2026-10-14T04:45:00Z",
+      "data_hora_local": "2026-10-14T01:45:00-0300",
+      "bateria": 4.108469945355192,
+      "radiacao_solar": 0.715353862117297,
+      "radiacao_solar_media": 0.4601478576660156,
+      "temperatura": 19.650962391582993,
+      "temperatura_media": 19.61260139942169
+    },
+    {
+      "data_hora_utc": "2026-10-14T04:50:00Z",
+      "data_hora_local": "2026-10-14T01:50:00-0300",
+      "bateria": 4.106967213114754,
+      "radiacao_solar": 1.574755088961524,
+      "radiacao_solar_media": 1.2830734252929688,
+      "temperatura": 19.70576587235633,
+      "temperatura_media": 19.66636329889297
+    },
+    {
+      "data_hora_utc": "2026-10-14T04:55:00Z",
+      "data_hora_local": "2026-10-14T01:55:00-0300",
+      "bateria": 4.1099726775956285,
+      "radiacao_solar": 1.4966277047029166,
+      "radiacao_solar_media": 1.5175342559814453,
+      "temperatura": 19.713594941038238,
+      "temperatura_media": 19.69611197710037
+    },
+    {
+      "data_hora_utc": "2026-10-14T05:00:00Z",
+      "data_hora_local": "2026-10-14T02:00:00-0300",
+      "bateria": 4.106967213114754,
+      "radiacao_solar": 0.4809717093417589,
+      "radiacao_solar_media": 0.8924961090087891,
+      "temperatura": 19.70576587235633,
+      "temperatura_media": 19.69271898269653
+    },
+    {
+      "data_hora_utc": "2026-10-14T05:05:00Z",
+      "data_hora_local": "2026-10-14T02:05:00-0300",
+      "bateria": 4.1099726775956285,
+      "radiacao_solar": 0.715353862117297,
+      "radiacao_solar_media": 0.6163597106933594,
+      "temperatura": 19.737082147083953,
+      "temperatura_media": 19.702635705471035
+    },
+    {
+      "data_hora_utc": "2026-10-14T05:10:00Z",
+      "data_hora_local": "2026-10-14T02:10:00-0300",
+      "bateria": 4.105464480874317,
+      "radiacao_solar": 0.7934812463759044,
+      "radiacao_solar_media": 0.6372451782226562,
+      "temperatura": 19.72925307840205,
+      "temperatura_media": 19.721947610378262
+    },
+    {
+      "data_hora_utc": "2026-10-14T05:15:00Z",
+      "data_hora_local": "2026-10-14T02:15:00-0300",
+      "bateria": 4.10396174863388,
+      "radiacao_solar": 1.1841181676686574,
+      "radiacao_solar_media": 0.7544517517089844,
+      "temperatura": 19.682278666310616,
+      "temperatura_media": 19.701591134071347
+    },
+    {
+      "data_hora_utc": "2026-10-14T05:20:00Z",
+      "data_hora_local": "2026-10-14T02:20:00-0300",
+      "bateria": 4.105464480874317,
+      "radiacao_solar": 0.637226477858917,
+      "radiacao_solar_media": 0.7830142974853516,
+      "temperatura": 19.721424009720142,
+      "temperatura_media": 19.70681101083755
+    },
+    {
+      "data_hora_utc": "2026-10-14T05:25:00Z",
+      "data_hora_local": "2026-10-14T02:25:00-0300",
+      "bateria": 4.106967213114754,
+      "radiacao_solar": 1.1841181676686574,
+      "radiacao_solar_media": 1.0018348693847656,
+      "temperatura": 19.752740284447768,
+      "temperatura_media": 19.719076156616207
+    },
+    {
+      "data_hora_utc": "2026-10-14T05:30:00Z",
+      "data_hora_local": "2026-10-14T02:30:00-0300",
+      "bateria": 4.105464480874317,
+      "radiacao_solar": 1.1841181676686574,
+      "radiacao_solar_media": 1.0695934295654297,
+      "temperatura": 19.77622749049348,
+      "temperatura_media": 19.730296730995175
+    },
+    {
+      "data_hora_utc": "2026-10-14T05:35:00Z",
+      "data_hora_local": "2026-10-14T02:35:00-0300",
+      "bateria": 4.10396174863388,
+      "radiacao_solar": 0.9497360148930625,
+      "radiacao_solar_media": 1.1163711547851562,
+      "temperatura": 19.823201902584913,
+      "temperatura_media": 19.800236821174618
+    },
+    {
+      "data_hora_utc": "2026-10-14T05:40:00Z",
+      "data_hora_local": "2026-10-14T02:40:00-0300",
+      "bateria": 4.10396174863388,
+      "radiacao_solar": 1.2622455519272648,
+      "radiacao_solar_media": 1.267385482788086,
+      "temperatura": 19.8075437652211,
+      "temperatura_media": 19.831031560897824
+    },
+    {
+      "data_hora_utc": "2026-10-14T05:45:00Z",
+      "data_hora_local": "2026-10-14T02:45:00-0300",
+      "bateria": 4.102459016393443,
+      "radiacao_solar": 1.4185003204444229,
+      "radiacao_solar_media": 1.556539535522461,
+      "temperatura": 19.838860039948724,
+      "temperatura_media": 19.85034346580505
+    },
+    {
+      "data_hora_utc": "2026-10-14T05:50:00Z",
+      "data_hora_local": "2026-10-14T02:50:00-0300",
+      "bateria": 4.10396174863388,
+      "radiacao_solar": 1.1059907834101637,
+      "radiacao_solar_media": 1.5643596649169922,
+      "temperatura": 19.88583445204016,
+      "temperatura_media": 19.8539987206459
+    },
+    {
+      "data_hora_utc": "2026-10-14T05:55:00Z",
+      "data_hora_local": "2026-10-14T02:55:00-0300",
+      "bateria": 4.10396174863388,
+      "radiacao_solar": 2.1216467787713214,
+      "radiacao_solar_media": 1.6321182250976562,
+      "temperatura": 19.878005383358254,
+      "temperatura_media": 19.87931132316589
+    },
+    {
+      "data_hora_utc": "2026-10-14T06:00:00Z",
+      "data_hora_local": "2026-10-14T03:00:00-0300",
+      "bateria": 4.102459016393443,
+      "radiacao_solar": 1.7310098574785684,
+      "radiacao_solar_media": 1.6112804412841797,
+      "temperatura": 19.932808864131594,
+      "temperatura_media": 19.89575326442718
+    },
+    {
+      "data_hora_utc": "2026-10-14T06:05:00Z",
+      "data_hora_local": "2026-10-14T03:05:00-0300",
+      "bateria": 4.097950819672131,
+      "radiacao_solar": 2.746665852839783,
+      "radiacao_solar_media": 1.96533203125,
+      "temperatura": 19.88583445204016,
+      "temperatura_media": 19.882443547248837
+    },
+    {
+      "data_hora_utc": "2026-10-14T06:10:00Z",
+      "data_hora_local": "2026-10-14T03:10:00-0300",
+      "bateria": 4.100956284153006,
+      "radiacao_solar": 1.6528824732200178,
+      "radiacao_solar_media": 2.2439956665039062,
+      "temperatura": 19.862347245994442,
+      "temperatura_media": 19.869655370712277
+    },
+    {
+      "data_hora_utc": "2026-10-14T06:15:00Z",
+      "data_hora_local": "2026-10-14T03:15:00-0300",
+      "bateria": 4.100956284153006,
+      "radiacao_solar": 1.8091372417371758,
+      "radiacao_solar_media": 1.6112327575683594,
+      "temperatura": 19.862347245994442,
+      "temperatura_media": 19.84564512968063
+    },
+    {
+      "data_hora_utc": "2026-10-14T06:20:00Z",
+      "data_hora_local": "2026-10-14T03:20:00-0300",
+      "bateria": 4.0994535519125685,
+      "radiacao_solar": 1.574755088961524,
+      "radiacao_solar_media": 1.6554832458496094,
+      "temperatura": 19.74491121576586,
+      "temperatura_media": 19.79815065860748
+    },
+    {
+      "data_hora_utc": "2026-10-14T06:25:00Z",
+      "data_hora_local": "2026-10-14T03:25:00-0300",
+      "bateria": 4.0994535519125685,
+      "radiacao_solar": 1.8872646259956696,
+      "radiacao_solar_media": 1.645040512084961,
+      "temperatura": 19.737082147083953,
+      "temperatura_media": 19.76448595523834
+    },
+    {
+      "data_hora_utc": "2026-10-14T06:30:00Z",
+      "data_hora_local": "2026-10-14T03:30:00-0300",
+      "bateria": 4.097950819672131,
+      "radiacao_solar": 1.8091372417371758,
+      "radiacao_solar_media": 1.6216278076171875,
+      "temperatura": 19.69010773499252,
+      "temperatura_media": 19.695848226547238
+    },
+    {
+      "data_hora_utc": "2026-10-14T06:35:00Z",
+      "data_hora_local": "2026-10-14T03:35:00-0300",
+      "bateria": 4.100956284153006,
+      "radiacao_solar": 1.8872646259956696,
+      "radiacao_solar_media": 1.6710758209228516,
+      "temperatura": 19.658791460264897,
+      "temperatura_media": 19.655138254165646
+    },
+    {
+      "data_hora_utc": "2026-10-14T06:40:00Z",
+      "data_hora_local": "2026-10-14T03:40:00-0300",
+      "bateria": 4.094945355191257,
+      "radiacao_solar": 1.7310098574785684,
+      "radiacao_solar_media": 1.7569541931152344,
+      "temperatura": 19.580500773445845,
+      "temperatura_media": 19.606335461139675
+    },
+    {
+      "data_hora_utc": "2026-10-14T06:45:00Z",
+      "data_hora_local": "2026-10-14T03:45:00-0300",
+      "bateria": 4.100956284153006,
+      "radiacao_solar": 1.965392010254277,
+      "radiacao_solar_media": 1.9470691680908203,
+      "temperatura": 19.525697292672504,
+      "temperatura_media": 19.5758044719696
+    },
+    {
+      "data_hora_utc": "2026-10-14T06:50:00Z",
+      "data_hora_local": "2026-10-14T03:50:00-0300",
+      "bateria": 4.096448087431694,
+      "radiacao_solar": 2.4341563158055806,
+      "radiacao_solar_media": 2.2727489471435547,
+      "temperatura": 19.596158910809656,
+      "temperatura_media": 19.55936253070831
+    },
+    {
+      "data_hora_utc": "2026-10-14T06:55:00Z",
+      "data_hora_local": "2026-10-14T03:55:00-0300",
+      "bateria": 4.097950819672131,
+      "radiacao_solar": 2.746665852839783,
+      "radiacao_solar_media": 2.6190757751464844,
+      "temperatura": 19.502210086626786,
+      "temperatura_media": 19.54213976860046
+    },
+    {
+      "data_hora_utc": "2026-10-14T07:00:00Z",
+      "data_hora_local": "2026-10-14T04:00:00-0300",
+      "bateria": 4.096448087431694,
+      "radiacao_solar": 2.4341563158055806,
+      "radiacao_solar_media": 2.514934539794922,
+      "temperatura": 19.525697292672504,
+      "temperatura_media": 19.489423930644985
+    },
+    {
+      "data_hora_utc": "2026-10-14T07:05:00Z",
+      "data_hora_local": "2026-10-14T04:05:00-0300",
+      "bateria": 4.09344262295082,
+      "radiacao_solar": 2.4341563158055806,
+      "radiacao_solar_media": 2.5539398193359375,
+      "temperatura": 19.510039155308693,
+      "temperatura_media": 19.471158087253567
+    },
+    {
+      "data_hora_utc": "2026-10-14T07:10:00Z",
+      "data_hora_local": "2026-10-14T04:10:00-0300",
+      "bateria": 4.096448087431694,
+      "radiacao_solar": 2.2779015472884225,
+      "radiacao_solar_media": 2.5929927825927734,
+      "temperatura": 19.455235674535356,
+      "temperatura_media": 19.46437060832977
+    },
+    {
+      "data_hora_utc": "2026-10-14T07:15:00Z",
+      "data_hora_local": "2026-10-14T04:15:00-0300",
+      "bateria": 4.094945355191257,
+      "radiacao_solar": 2.2779015472884225,
+      "radiacao_solar_media": 2.4315357208251953,
+      "temperatura": 19.39260312508011,
+      "temperatura_media": 19.42026615142822
+    },
+    {
+      "data_hora_utc": "2026-10-14T07:20:00Z",
+      "data_hora_local": "2026-10-14T04:20:00-0300",
+      "bateria": 4.087431693989071,
+      "radiacao_solar": 2.2779015472884225,
+      "radiacao_solar_media": 2.460145950317383,
+      "temperatura": 19.39260312508011,
+      "temperatura_media": 19.373814761638638
+    },
+    {
+      "data_hora_utc": "2026-10-14T07:25:00Z",
+      "data_hora_local": "2026-10-14T04:25:00-0300",
+      "bateria": 4.096448087431694,
+      "radiacao_solar": 2.6685384685811755,
+      "radiacao_solar_media": 2.5044918060302734,
+      "temperatura": 19.298654300897244,
+      "temperatura_media": 19.33336406946182
+    },
+    {
+      "data_hora_utc": "2026-10-14T07:30:00Z",
+      "data_hora_local": "2026-10-14T04:30:00-0300",
+      "bateria": 4.094945355191257,
+      "radiacao_solar": 2.35602893154703,
+      "radiacao_solar_media": 2.5226593017578125,
+      "temperatura": 19.25167988880581,
+      "temperatura_media": 19.28012371063232
+    },
+    {
+      "data_hora_utc": "2026-10-14T07:35:00Z",
+      "data_hora_local": "2026-10-14T04:35:00-0300",
+      "bateria": 4.091939890710383,
+      "radiacao_solar": 2.2779015472884225,
+      "radiacao_solar_media": 2.504444122314453,
+      "temperatura": 19.204705476714377,
+      "temperatura_media": 19.256637990474697
+    },
+    {
+      "data_hora_utc": "2026-10-14T07:40:00Z",
+      "data_hora_local": "2026-10-14T04:40:00-0300",
+      "bateria": 4.09344262295082,
+      "radiacao_solar": 0.7934812463759044,
+      "radiacao_solar_media": 1.7726898193359375,
+      "temperatura": 19.157731064622944,
+      "temperatura_media": 19.1804364323616
+    },
+    {
+      "data_hora_utc": "2026-10-14T07:45:00Z",
+      "data_hora_local": "2026-10-14T04:45:00-0300",
+      "bateria": 4.094945355191257,
+      "radiacao_solar": 0.2465895565660503,
+      "radiacao_solar_media": 0.5538463592529297,
+      "temperatura": 19.05595317175817,
+      "temperatura_media": 19.120675325393673
+    },
+    {
+      "data_hora_utc": "2026-10-14T07:50:00Z",
+      "data_hora_local": "2026-10-14T04:50:00-0300",
+      "bateria": 4.094945355191257,
+      "radiacao_solar": -0.22217474898525325,
+      "radiacao_solar_media": 0.16846656799316406,
+      "temperatura": 19.11075665253151,
+      "temperatura_media": 19.10736560821533
+    },
+    {
+      "data_hora_utc": "2026-10-14T07:55:00Z",
+      "data_hora_local": "2026-10-14T04:55:00-0300",
+      "bateria": 4.091939890710383,
+      "radiacao_solar": 0.01220740379039853,
+      "radiacao_solar_media": 0.0850677490234375,
+      "temperatura": 19.118585721213414,
+      "temperatura_media": 19.067436456680294
+    },
+    {
+      "data_hora_utc": "2026-10-14T08:00:00Z",
+      "data_hora_local": "2026-10-14T05:00:00-0300",
+      "bateria": 4.088934426229509,
+      "radiacao_solar": 0.01220740379039853,
+      "radiacao_solar_media": 0.04334449768066406,
+      "temperatura": 19.040295034394358,
+      "temperatura_media": 19.044210016727444
+    },
+    {
+      "data_hora_utc": "2026-10-14T08:05:00Z",
+      "data_hora_local": "2026-10-14T05:05:00-0300",
+      "bateria": 4.09344262295082,
+      "radiacao_solar": -0.14404736472670265,
+      "radiacao_solar_media": 0.131988525390625,
+      "temperatura": 19.008978759666736,
+      "temperatura_media": 19.034032523632046
+    },
+    {
+      "data_hora_utc": "2026-10-14T08:10:00Z",
+      "data_hora_local": "2026-10-14T05:10:00-0300",
+      "bateria": 4.091939890710383,
+      "radiacao_solar": 0.2465895565660503,
+      "radiacao_solar_media": 0.09031295776367188,
+      "temperatura": 19.05595317175817,
+      "temperatura_media": 19.030638039112088
+    },
+    {
+      "data_hora_utc": "2026-10-14T08:15:00Z",
+      "data_hora_local": "2026-10-14T05:15:00-0300",
+      "bateria": 4.091939890710383,
+      "radiacao_solar": 0.09033478804900597,
+      "radiacao_solar_media": 0.23093223571777344,
+      "temperatura": 19.024636897030547,
+      "temperatura_media": 19.04368847608566
+    },
+    {
+      "data_hora_utc": "2026-10-14T08:20:00Z",
+      "data_hora_local": "2026-10-14T05:20:00-0300",
+      "bateria": 4.088934426229509,
+      "radiacao_solar": 0.4028443250831515,
+      "radiacao_solar_media": 0.3689765930175781,
+      "temperatura": 19.05595317175817,
+      "temperatura_media": 19.05543357133865
+    },
+    {
+      "data_hora_utc": "2026-10-14T08:25:00Z",
+      "data_hora_local": "2026-10-14T05:25:00-0300",
+      "bateria": 4.09344262295082,
+      "radiacao_solar": 0.2465895565660503,
+      "radiacao_solar_media": 0.3924369812011719,
+      "temperatura": 19.063782240440077,
+      "temperatura_media": 19.05073523521423
+    },
+    {
+      "data_hora_utc": "2026-10-14T08:30:00Z",
+      "data_hora_local": "2026-10-14T05:30:00-0300",
+      "bateria": 4.09344262295082,
+      "radiacao_solar": 0.715353862117297,
+      "radiacao_solar_media": 1.0330677032470703,
+      "temperatura": 19.0950985151677,
+      "temperatura_media": 19.045254588127133
+    },
+    {
+      "data_hora_utc": "2026-10-14T08:35:00Z",
+      "data_hora_local": "2026-10-14T05:35:00-0300",
+      "bateria": 4.090437158469945,
+      "radiacao_solar": 1.4185003204444229,
+      "radiacao_solar_media": 1.4496803283691406,
+      "temperatura": 19.024636897030547,
+      "temperatura_media": 19.044208526611325
+    },
+    {
+      "data_hora_utc": "2026-10-14T08:40:00Z",
+      "data_hora_local": "2026-10-14T05:40:00-0300",
+      "bateria": 4.09344262295082,
+      "radiacao_solar": 2.1216467787713214,
+      "radiacao_solar_media": 1.7987251281738281,
+      "temperatura": 19.08726944648579,
+      "temperatura_media": 19.059343636035916
+    },
+    {
+      "data_hora_utc": "2026-10-14T08:45:00Z",
+      "data_hora_local": "2026-10-14T05:45:00-0300",
+      "bateria": 4.091939890710383,
+      "radiacao_solar": 2.746665852839783,
+      "radiacao_solar_media": 2.288341522216797,
+      "temperatura": 19.118585721213414,
+      "temperatura_media": 19.067439436912533
+    },
+    {
+      "data_hora_utc": "2026-10-14T08:50:00Z",
+      "data_hora_local": "2026-10-14T05:50:00-0300",
+      "bateria": 4.0859289617486345,
+      "radiacao_solar": 3.0591753898739285,
+      "radiacao_solar_media": 3.0878067016601562,
+      "temperatura": 19.149901995941036,
+      "temperatura_media": 19.091968238353726
+    },
+    {
+      "data_hora_utc": "2026-10-14T08:55:00Z",
+      "data_hora_local": "2026-10-14T05:55:00-0300",
+      "bateria": 4.090437158469945,
+      "radiacao_solar": 4.387340922269345,
+      "radiacao_solar_media": 3.775358200073242,
+      "temperatura": 19.12641478989532,
+      "temperatura_media": 19.111537933349606
+    },
+    {
+      "data_hora_utc": "2026-10-14T09:00:00Z",
+      "data_hora_local": "2026-10-14T06:00:00-0300",
+      "bateria": 4.091939890710383,
+      "radiacao_solar": 6.340525528733224,
+      "radiacao_solar_media": 5.4889678955078125,
+      "temperatura": 19.142072927259132,
+      "temperatura_media": 19.1386803984642
+    },
+    {
+      "data_hora_utc": "2026-10-14T09:05:00Z",
+      "data_hora_local": "2026-10-14T06:05:00-0300",
+      "bateria": 4.088934426229509,
+      "radiacao_solar": 8.606219672231248,
+      "radiacao_solar_media": 7.3352813720703125,
+      "temperatura": 19.149901995941036,
+      "temperatura_media": 19.164778292179104
+    },
+    {
+      "data_hora_utc": "2026-10-14T09:10:00Z",
+      "data_hora_local": "2026-10-14T06:10:00-0300",
+      "bateria": 4.09344262295082,
+      "radiacao_solar": 14.465773491622713,
+      "radiacao_solar_media": 11.124420166015625,
+      "temperatura": 19.228192682760092,
+      "temperatura_media": 19.211228191852566
+    },
+    {
+      "data_hora_utc": "2026-10-14T09:15:00Z",
+      "data_hora_local": "2026-10-14T06:15:00-0300",
+      "bateria": 4.088934426229509,
+      "radiacao_solar": 25.794244209112776,
+      "radiacao_solar_media": 19.658613204956055,
+      "temperatura": 19.416090331125826,
+      "temperatura_media": 19.33127641677856
+    },
+    {
+      "data_hora_utc": "2026-10-14T09:20:00Z",
+      "data_hora_local": "2026-10-14T06:20:00-0300",
+      "bateria": 4.096448087431694,
+      "radiacao_solar": 38.91964476454979,
+      "radiacao_solar_media": 33.64605903625488,
+      "temperatura": 20.10504837513352,
+      "temperatura_media": 19.811198115348812
+    },
+    {
+      "data_hora_utc": "2026-10-14T09:25:00Z",
+      "data_hora_local": "2026-10-14T06:25:00-0300",
+      "bateria": 4.09344262295082,
+      "radiacao_solar": 28.919339579454913,
+      "radiacao_solar_media": 32.755422592163086,
+      "temperatura": 19.69010773499252,
+      "temperatura_media": 19.753524661064144
+    },
+    {
+      "data_hora_utc": "2026-10-14T09:30:00Z",
+      "data_hora_local": "2026-10-14T06:30:00-0300",
+      "bateria": 4.097950819672131,
+      "radiacao_solar": 51.96691793572808,
+      "radiacao_solar_media": 38.46912384033203,
+      "temperatura": 20.43386925977355,
+      "temperatura_media": 19.999355077743527
+    },
+    {
+      "data_hora_utc": "2026-10-14T09:35:00Z",
+      "data_hora_local": "2026-10-14T06:35:00-0300",
+      "bateria": 4.102459016393443,
+      "radiacao_solar": 84.78041932432018,
+      "radiacao_solar_media": 71.58470153808594,
+      "temperatura": 20.598279702093567,
+      "temperatura_media": 20.575833320617672
+    },
+    {
+      "data_hora_utc": "2026-10-14T09:40:00Z",
+      "data_hora_local": "2026-10-14T06:40:00-0300",
+      "bateria": 4.108469945355192,
+      "radiacao_solar": 81.4209418012025,
+      "radiacao_solar_media": 81.0302734375,
+      "temperatura": 20.66874132023072,
+      "temperatura_media": 20.637685060501095
+    },
+    {
+      "data_hora_utc": "2026-10-14T09:45:00Z",
+      "data_hora_local": "2026-10-14T06:45:00-0300",
+      "bateria": 4.108469945355192,
+      "radiacao_solar": 59.54527420880771,
+      "radiacao_solar_media": 71.66013717651367,
+      "temperatura": 20.67657038891262,
+      "temperatura_media": 20.69379389286041
+    },
+    {
+      "data_hora_utc": "2026-10-14T09:50:00Z",
+      "data_hora_local": "2026-10-14T06:50:00-0300",
+      "bateria": 4.11448087431694,
+      "radiacao_solar": 80.48341319009984,
+      "radiacao_solar_media": 66.50114059448242,
+      "temperatura": 20.715715732322153,
+      "temperatura_media": 20.690660178661343
+    },
+    {
+      "data_hora_utc": "2026-10-14T09:55:00Z",
+      "data_hora_local": "2026-10-14T06:55:00-0300",
+      "bateria": 4.106967213114754,
+      "radiacao_solar": 75.95202490310379,
+      "radiacao_solar_media": 76.90773010253906,
+      "temperatura": 20.75486107573168,
+      "temperatura_media": 20.735023915767666
+    },
+    {
+      "data_hora_utc": "2026-10-14T10:00:00Z",
+      "data_hora_local": "2026-10-14T07:00:00-0300",
+      "bateria": 4.111475409836066,
+      "radiacao_solar": 67.43614001892155,
+      "radiacao_solar_media": 71.84247970581055,
+      "temperatura": 20.778348281777394,
+      "temperatura_media": 20.78565508127212
+    },
+    {
+      "data_hora_utc": "2026-10-14T10:05:00Z",
+      "data_hora_local": "2026-10-14T07:05:00-0300",
+      "bateria": 4.106967213114754,
+      "radiacao_solar": 85.32731101413009,
+      "radiacao_solar_media": 76.98321342468262,
+      "temperatura": 20.794006419141205,
+      "temperatura_media": 20.797398686408993
+    },
+    {
+      "data_hora_utc": "2026-10-14T10:10:00Z",
+      "data_hora_local": "2026-10-14T07:10:00-0300",
+      "bateria": 4.11448087431694,
+      "radiacao_solar": 54.857631153294506,
+      "radiacao_solar_media": 78.44424247741699,
+      "temperatura": 20.715715732322153,
+      "temperatura_media": 20.8180159330368
+    },
+    {
+      "data_hora_utc": "2026-10-14T10:15:00Z",
+      "data_hora_local": "2026-10-14T07:15:00-0300",
+      "bateria": 4.1099726775956285,
+      "radiacao_solar": 66.10797448652607,
+      "radiacao_solar_media": 56.47225379943848,
+      "temperatura": 20.903613380687887,
+      "temperatura_media": 20.753294229507443
+    },
+    {
+      "data_hora_utc": "2026-10-14T10:20:00Z",
+      "data_hora_local": "2026-10-14T07:20:00-0300",
+      "bateria": 4.117486338797814,
+      "radiacao_solar": 98.14020203253273,
+      "radiacao_solar_media": 80.4417610168457,
+      "temperatura": 20.840980831232642,
+      "temperatura_media": 20.88743150234222
+    },
+    {
+      "data_hora_utc": "2026-10-14T10:25:00Z",
+      "data_hora_local": "2026-10-14T07:25:00-0300",
+      "bateria": 4.112978142076503,
+      "radiacao_solar": 96.26514481032746,
+      "radiacao_solar_media": 82.2777271270752,
+      "temperatura": 20.880126174642164,
+      "temperatura_media": 20.921619236469265
+    },
+    {
+      "data_hora_utc": "2026-10-14T10:30:00Z",
+      "data_hora_local": "2026-10-14T07:30:00-0300",
+      "bateria": 4.120491803278689,
+      "radiacao_solar": 83.84289071321757,
+      "radiacao_solar_media": 93.11137199401855,
+      "temperatura": 21.044536616962187,
+      "temperatura_media": 20.959982275962826
+    },
+    {
+      "data_hora_utc": "2026-10-14T10:35:00Z",
+      "data_hora_local": "2026-10-14T07:35:00-0300",
+      "bateria": 4.123497267759563,
+      "radiacao_solar": 143.84472182378613,
+      "radiacao_solar_media": 129.5135498046875,
+      "temperatura": 20.77051921309549,
+      "temperatura_media": 20.848551392555233
+    },
+    {
+      "data_hora_utc": "2026-10-14T10:40:00Z",
+      "data_hora_local": "2026-10-14T07:40:00-0300",
+      "bateria": 4.137021857923497,
+      "radiacao_solar": 135.09445478682824,
+      "radiacao_solar_media": 137.32881546020508,
+      "temperatura": 20.895784312005976,
+      "temperatura_media": 20.853506028652188
+    },
+    {
+      "data_hora_utc": "2026-10-14T10:45:00Z",
+      "data_hora_local": "2026-10-14T07:45:00-0300",
+      "bateria": 4.129508196721312,
+      "radiacao_solar": 108.37488937040314,
+      "radiacao_solar_media": 115.95587730407715,
+      "temperatura": 21.122827303781243,
+      "temperatura_media": 21.074286103248593
+    },
+    {
+      "data_hora_utc": "2026-10-14T10:50:00Z",
+      "data_hora_local": "2026-10-14T07:50:00-0300",
+      "bateria": 4.128005464480875,
+      "radiacao_solar": 90.4055909909361,
+      "radiacao_solar_media": 99.42665100097656,
+      "temperatura": 21.24809240269173,
+      "temperatura_media": 21.189373731613156
+    },
+    {
+      "data_hora_utc": "2026-10-14T10:55:00Z",
+      "data_hora_local": "2026-10-14T07:55:00-0300",
+      "bateria": 4.132513661202186,
+      "radiacao_solar": 140.2508621478927,
+      "radiacao_solar_media": 114.44540023803711,
+      "temperatura": 21.01322034223456,
+      "temperatura_media": 21.13196104764938
+    },
+    {
+      "data_hora_utc": "2026-10-14T11:00:00Z",
+      "data_hora_local": "2026-10-14T08:00:00-0300",
+      "bateria": 4.152049180327869,
+      "radiacao_solar": 182.28339487899416,
+      "radiacao_solar_media": 163.28024864196777,
+      "temperatura": 20.91144244936979,
+      "temperatura_media": 20.940409600734707
+    },
+    {
+      "data_hora_utc": "2026-10-14T11:05:00Z",
+      "data_hora_local": "2026-10-14T08:05:00-0300",
+      "bateria": 4.144535519125683,
+      "radiacao_solar": 176.6582232123783,
+      "radiacao_solar_media": 171.28820419311523,
+      "temperatura": 20.887955243324075,
+      "temperatura_media": 21.021047234535214
+    },
+    {
+      "data_hora_utc": "2026-10-14T11:10:00Z",
+      "data_hora_local": "2026-10-14T08:10:00-0300",
+      "bateria": 4.156557377049181,
+      "radiacao_solar": 169.70488601336717,
+      "radiacao_solar_media": 167.05374717712402,
+      "temperatura": 20.74703200704977,
+      "temperatura_media": 20.849592983722683
+    },
+    {
+      "data_hora_utc": "2026-10-14T11:15:00Z",
+      "data_hora_local": "2026-10-14T08:15:00-0300",
+      "bateria": 4.147540983606557,
+      "radiacao_solar": 104.7029023102512,
+      "radiacao_solar_media": 151.15995407104492,
+      "temperatura": 21.161972647190773,
+      "temperatura_media": 20.884303748607632
+    },
+    {
+      "data_hora_utc": "2026-10-14T11:20:00Z",
+      "data_hora_local": "2026-10-14T08:20:00-0300",
+      "bateria": 4.152049180327869,
+      "radiacao_solar": 118.37519455549796,
+      "radiacao_solar_media": 112.1640682220459,
+      "temperatura": 21.122827303781243,
+      "temperatura_media": 21.122305095195767
+    },
+    {
+      "data_hora_utc": "2026-10-14T11:25:00Z",
+      "data_hora_local": "2026-10-14T08:25:00-0300",
+      "bateria": 4.143032786885247,
+      "radiacao_solar": 130.48493911557364,
+      "radiacao_solar_media": 115.63811302185059,
+      "temperatura": 21.068023823007902,
+      "temperatura_media": 21.15727514028549
+    },
+    {
+      "data_hora_utc": "2026-10-14T11:30:00Z",
+      "data_hora_local": "2026-10-14T08:30:00-0300",
+      "bateria": 4.176092896174864,
+      "radiacao_solar": 229.00357066560866,
+      "radiacao_solar_media": 177.12178230285645,
+      "temperatura": 20.300775092181155,
+      "temperatura_media": 20.717543363571163
+    },
+    {
+      "data_hora_utc": "2026-10-14T11:35:00Z",
+      "data_hora_local": "2026-10-14T08:35:00-0300",
+      "bateria": 4.192622950819673,
+      "radiacao_solar": 298.4588152714622,
+      "radiacao_solar_media": 292.9013252258301,
+      "temperatura": 19.948467001495406,
+      "temperatura_media": 19.82711553573608
+    },
+    {
+      "data_hora_utc": "2026-10-14T11:40:00Z",
+      "data_hora_local": "2026-10-14T08:40:00-0300",
+      "bateria": 4.216666666666667,
+      "radiacao_solar": 323.5377056184576,
+      "radiacao_solar_media": 292.8023338317871,
+      "temperatura": 19.831030971266824,
+      "temperatura_media": 20.070861279964443
+    },
+    {
+      "data_hora_utc": "2026-10-14T11:45:00Z",
+      "data_hora_local": "2026-10-14T08:45:00-0300",
+      "bateria": 4.209153005464481,
+      "radiacao_solar": 358.6950285348064,
+      "radiacao_solar_media": 397.52955436706543,
+      "temperatura": 20.198997199316384,
+      "temperatura_media": 20.002487301826473
+    },
+    {
+      "data_hora_utc": "2026-10-14T11:50:00Z",
+      "data_hora_local": "2026-10-14T08:50:00-0300",
+      "bateria": 4.230191256830602,
+      "radiacao_solar": 385.33646656697294,
+      "radiacao_solar_media": 368.7082767486572,
+      "temperatura": 20.25380068008972,
+      "temperatura_media": 20.35897076129913
+    },
+    {
+      "data_hora_utc": "2026-10-14T11:55:00Z",
+      "data_hora_local": "2026-10-14T08:55:00-0300",
+      "bateria": 4.230191256830602,
+      "radiacao_solar": 496.27735221411785,
+      "radiacao_solar_media": 450.03108978271484,
+      "temperatura": 21.349870295556503,
+      "temperatura_media": 20.905178785324093
+    },
+    {
+      "data_hora_utc": "2026-10-14T12:00:00Z",
+      "data_hora_local": "2026-10-14T09:00:00-0300",
+      "bateria": 4.243715846994536,
+      "radiacao_solar": 401.1181981872006,
+      "radiacao_solar_media": 468.9796447753906,
+      "temperatura": 21.15414357850886,
+      "temperatura_media": 21.41824215650558
+    },
+    {
+      "data_hora_utc": "2026-10-14T12:05:00Z",
+      "data_hora_local": "2026-10-14T09:05:00-0300",
+      "bateria": 4.219672131147541,
+      "radiacao_solar": 284.7865230262154,
+      "radiacao_solar_media": 279.20823097229004,
+      "temperatura": 21.271579608737447,
+      "temperatura_media": 21.463651955127713
+    },
+    {
+      "data_hora_utc": "2026-10-14T12:10:00Z",
+      "data_hora_local": "2026-10-14T09:10:00-0300",
+      "bateria": 4.239207650273224,
+      "radiacao_solar": 314.3186742759484,
+      "radiacao_solar_media": 307.3262691497803,
+      "temperatura": 21.177630784554584,
+      "temperatura_media": 21.131178736686703
+    },
+    {
+      "data_hora_utc": "2026-10-14T12:15:00Z",
+      "data_hora_local": "2026-10-14T09:15:00-0300",
+      "bateria": 4.227185792349727,
+      "radiacao_solar": 380.6488235114597,
+      "radiacao_solar_media": 366.84632301330566,
+      "temperatura": 20.80966455650502,
+      "temperatura_media": 20.94771564006805
+    },
+    {
+      "data_hora_utc": "2026-10-14T12:20:00Z",
+      "data_hora_local": "2026-10-14T09:20:00-0300",
+      "bateria": 4.207650273224044,
+      "radiacao_solar": 408.38404492324594,
+      "radiacao_solar_media": 418.2488441467285,
+      "temperatura": 21.553426081286048,
+      "temperatura_media": 21.301591396331784
+    },
+    {
+      "data_hora_utc": "2026-10-14T12:25:00Z",
+      "data_hora_local": "2026-10-14T09:25:00-0300",
+      "bateria": 4.243715846994536,
+      "radiacao_solar": 334.0067751091037,
+      "radiacao_solar_media": 352.1791458129883,
+      "temperatura": 21.89007603460799,
+      "temperatura_media": 21.6593787074089
+    },
+    {
+      "data_hora_utc": "2026-10-14T12:30:00Z",
+      "data_hora_local": "2026-10-14T09:30:00-0300",
+      "bateria": 4.2377049180327875,
+      "radiacao_solar": 334.47553941465503,
+      "radiacao_solar_media": 323.69914054870605,
+      "temperatura": 21.69434931756035,
+      "temperatura_media": 21.916955709457394
+    },
+    {
+      "data_hora_utc": "2026-10-14T12:35:00Z",
+      "data_hora_local": "2026-10-14T09:35:00-0300",
+      "bateria": 4.222677595628416,
+      "radiacao_solar": 431.6660054322947,
+      "radiacao_solar_media": 389.5735263824463,
+      "temperatura": 21.717836523606064,
+      "temperatura_media": 21.588917076587673
+    },
+    {
+      "data_hora_utc": "2026-10-14T12:40:00Z",
+      "data_hora_local": "2026-10-14T09:40:00-0300",
+      "bateria": 4.231693989071038,
+      "radiacao_solar": 463.69823297830135,
+      "radiacao_solar_media": 430.81703186035156,
+      "temperatura": 22.35982015552232,
+      "temperatura_media": 21.98480665683746
+    },
+    {
+      "data_hora_utc": "2026-10-14T12:45:00Z",
+      "data_hora_local": "2026-10-14T09:45:00-0300",
+      "bateria": 4.24672131147541,
+      "radiacao_solar": 323.30332346568196,
+      "radiacao_solar_media": 384.7790241241455,
+      "temperatura": 22.336332949476606,
+      "temperatura_media": 22.159135341644284
+    },
+    {
+      "data_hora_utc": "2026-10-14T12:50:00Z",
+      "data_hora_local": "2026-10-14T09:50:00-0300",
+      "bateria": 4.198633879781421,
+      "radiacao_solar": 230.33173619800414,
+      "radiacao_solar_media": 278.1404972076416,
+      "temperatura": 23.448060702307195,
+      "temperatura_media": 22.787287831306454
+    },
+    {
+      "data_hora_utc": "2026-10-14T12:55:00Z",
+      "data_hora_local": "2026-10-14T09:55:00-0300",
+      "bateria": 4.204644808743169,
+      "radiacao_solar": 509.5590075380718,
+      "radiacao_solar_media": 251.06148719787598,
+      "temperatura": 22.93134216930143,
+      "temperatura_media": 23.502078652381893
+    },
+    {
+      "data_hora_utc": "2026-10-14T13:00:00Z",
+      "data_hora_local": "2026-10-14T10:00:00-0300",
+      "bateria": 4.201639344262295,
+      "radiacao_solar": 348.8509781182288,
+      "radiacao_solar_media": 451.9920349121094,
+      "temperatura": 22.532059666524244,
+      "temperatura_media": 22.79850840568542
+    },
+    {
+      "data_hora_utc": "2026-10-14T13:05:00Z",
+      "data_hora_local": "2026-10-14T10:05:00-0300",
+      "bateria": 4.2346994535519125,
+      "radiacao_solar": 316.8968779564806,
+      "radiacao_solar_media": 337.68653869628906,
+      "temperatura": 22.508572460478526,
+      "temperatura_media": 22.53649532794952
+    },
+    {
+      "data_hora_utc": "2026-10-14T13:10:00Z",
+      "data_hora_local": "2026-10-14T10:10:00-0300",
+      "bateria": 4.245218579234973,
+      "radiacao_solar": 351.8198187200537,
+      "radiacao_solar_media": 324.9049186706543,
+      "temperatura": 22.179751575838495,
+      "temperatura_media": 22.456380724906918
+    },
+    {
+      "data_hora_utc": "2026-10-14T13:15:00Z",
+      "data_hora_local": "2026-10-14T10:15:00-0300",
+      "bateria": 4.22568306010929,
+      "radiacao_solar": 305.33402508621487,
+      "radiacao_solar_media": 375.52623748779297,
+      "temperatura": 22.719957314889978,
+      "temperatura_media": 22.205586731433865
+    },
+    {
+      "data_hora_utc": "2026-10-14T13:20:00Z",
+      "data_hora_local": "2026-10-14T10:20:00-0300",
+      "bateria": 4.22568306010929,
+      "radiacao_solar": 217.28446302682573,
+      "radiacao_solar_media": 231.89425468444824,
+      "temperatura": 23.79253972431104,
+      "temperatura_media": 23.697285354137417
+    },
+    {
+      "data_hora_utc": "2026-10-14T13:25:00Z",
+      "data_hora_local": "2026-10-14T10:25:00-0300",
+      "bateria": 4.227185792349727,
+      "radiacao_solar": 334.2411572618794,
+      "radiacao_solar_media": 267.5307273864746,
+      "temperatura": 22.539888735206148,
+      "temperatura_media": 23.199880123138424
+    },
+    {
+      "data_hora_utc": "2026-10-14T13:30:00Z",
+      "data_hora_local": "2026-10-14T10:30:00-0300",
+      "bateria": 4.23620218579235,
+      "radiacao_solar": 304.7871333964049,
+      "radiacao_solar_media": 366.8175220489502,
+      "temperatura": 22.633837559389015,
+      "temperatura_media": 22.33581095933914
+    },
+    {
+      "data_hora_utc": "2026-10-14T13:35:00Z",
+      "data_hora_local": "2026-10-14T10:35:00-0300",
+      "bateria": 4.227185792349727,
+      "radiacao_solar": 426.7439802240059,
+      "radiacao_solar_media": 333.1212520599365,
+      "temperatura": 22.250213193975647,
+      "temperatura_media": 22.42871522903442
+    },
+    {
+      "data_hora_utc": "2026-10-14T13:40:00Z",
+      "data_hora_local": "2026-10-14T10:40:00-0300",
+      "bateria": 4.228688524590164,
+      "radiacao_solar": 349.163487655263,
+      "radiacao_solar_media": 409.9257469177246,
+      "temperatura": 22.13277716374706,
+      "temperatura_media": 22.247603535652157
+    },
+    {
+      "data_hora_utc": "2026-10-14T13:45:00Z",
+      "data_hora_local": "2026-10-14T10:45:00-0300",
+      "bateria": 4.228688524590164,
+      "radiacao_solar": 480.41749320963163,
+      "radiacao_solar_media": 400.6207466125488,
+      "temperatura": 23.048778199530013,
+      "temperatura_media": 22.350686788558956
+    },
+    {
+      "data_hora_utc": "2026-10-14T13:50:00Z",
+      "data_hora_local": "2026-10-14T10:50:00-0300",
+      "bateria": 4.164071038251366,
+      "radiacao_solar": 888.5549485763115,
+      "radiacao_solar_media": 828.7249565124512,
+      "temperatura": 24.489326837000636,
+      "temperatura_media": 24.085609614849087
+    },
+    {
+      "data_hora_utc": "2026-10-14T13:55:00Z",
+      "data_hora_local": "2026-10-14T10:55:00-0300",
+      "bateria": 4.156557377049181,
+      "radiacao_solar": 824.0217291787469,
+      "radiacao_solar_media": 642.026424407959,
+      "temperatura": 24.974729095278782,
+      "temperatura_media": 24.533429741859432
+    },
+    {
+      "data_hora_utc": "2026-10-14T14:00:00Z",
+      "data_hora_local": "2026-10-14T11:00:00-0300",
+      "bateria": 4.180601092896175,
+      "radiacao_solar": 513.7778862880339,
+      "radiacao_solar_media": 595.3661918640137,
+      "temperatura": 23.706419968810078,
+      "temperatura_media": 24.233835935592648
+    },
+    {
+      "data_hora_utc": "2026-10-14T14:05:00Z",
+      "data_hora_local": "2026-10-14T11:05:00-0300",
+      "bateria": 4.146038251366121,
+      "radiacao_solar": 1104.4990386669517,
+      "radiacao_solar_media": 816.1022186279297,
+      "temperatura": 24.426694287545395,
+      "temperatura_media": 24.089781939983364
+    },
+    {
+      "data_hora_utc": "2026-10-14T14:10:00Z",
+      "data_hora_local": "2026-10-14T11:10:00-0300",
+      "bateria": 4.188114754098361,
+      "radiacao_solar": 1288.4109012115846,
+      "radiacao_solar_media": 1016.3374900817871,
+      "temperatura": 25.10782326287118,
+      "temperatura_media": 25.0861644744873
+    },
+    {
+      "data_hora_utc": "2026-10-14T14:15:00Z",
+      "data_hora_local": "2026-10-14T11:15:00-0300",
+      "bateria": 4.161065573770492,
+      "radiacao_solar": 499.16806543168434,
+      "radiacao_solar_media": 685.8013153076172,
+      "temperatura": 24.653737279320655,
+      "temperatura_media": 25.641235709190365
+    },
+    {
+      "data_hora_utc": "2026-10-14T14:20:00Z",
+      "data_hora_local": "2026-10-14T11:20:00-0300",
+      "bateria": 4.233196721311476,
+      "radiacao_solar": 514.9497970519121,
+      "radiacao_solar_media": 576.8996238708496,
+      "temperatura": 24.544130317773977,
+      "temperatura_media": 24.794659018516537
+    },
+    {
+      "data_hora_utc": "2026-10-14T14:25:00Z",
+      "data_hora_local": "2026-10-14T11:25:00-0300",
+      "bateria": 4.150546448087432,
+      "radiacao_solar": 364.9452192754907,
+      "radiacao_solar_media": 468.94845962524414,
+      "temperatura": 23.95695016663106,
+      "temperatura_media": 24.400337040424343
+    },
+    {
+      "data_hora_utc": "2026-10-14T14:30:00Z",
+      "data_hora_local": "2026-10-14T11:30:00-0300",
+      "bateria": 4.24672131147541,
+      "radiacao_solar": 627.0625934629354,
+      "radiacao_solar_media": 441.74184799194336,
+      "temperatura": 25.170455812326423,
+      "temperatura_media": 24.43791329860687
+    },
+    {
+      "data_hora_utc": "2026-10-14T14:35:00Z",
+      "data_hora_local": "2026-10-14T11:35:00-0300",
+      "bateria": 4.180601092896175,
+      "radiacao_solar": 423.46263008514666,
+      "radiacao_solar_media": 499.3894577026367,
+      "temperatura": 24.08221526554155,
+      "temperatura_media": 24.539691209793087
+    },
+    {
+      "data_hora_utc": "2026-10-14T14:40:00Z",
+      "data_hora_local": "2026-10-14T11:40:00-0300",
+      "bateria": 4.206147540983607,
+      "radiacao_solar": 444.8695333719902,
+      "radiacao_solar_media": 499.2149353027344,
+      "temperatura": 24.732027966139714,
+      "temperatura_media": 24.562920629978176
+    },
+    {
+      "data_hora_utc": "2026-10-14T14:45:00Z",
+      "data_hora_local": "2026-10-14T11:45:00-0300",
+      "bateria": 4.156557377049181,
+      "radiacao_solar": 362.13263344218274,
+      "radiacao_solar_media": 357.99970626831055,
+      "temperatura": 24.137018746314887,
+      "temperatura_media": 24.326483905315396
+    },
+    {
+      "data_hora_utc": "2026-10-14T14:50:00Z",
+      "data_hora_local": "2026-10-14T11:50:00-0300",
+      "bateria": 4.230191256830602,
+      "radiacao_solar": 385.2583391827143,
+      "radiacao_solar_media": 417.0146942138672,
+      "temperatura": 23.90214668585772,
+      "temperatura_media": 24.42565262317657
+    },
+    {
+      "data_hora_utc": "2026-10-14T14:55:00Z",
+      "data_hora_local": "2026-10-14T11:55:00-0300",
+      "bateria": 4.165573770491804,
+      "radiacao_solar": 489.8709067049165,
+      "radiacao_solar_media": 411.3711357116699,
+      "temperatura": 24.8572930650502,
+      "temperatura_media": 24.329614639282223
+    },
+    {
+      "data_hora_utc": "2026-10-14T15:00:00Z",
+      "data_hora_local": "2026-10-14T12:00:00-0300",
+      "bateria": 4.213661202185793,
+      "radiacao_solar": 364.867091891232,
+      "radiacao_solar_media": 484.6883773803711,
+      "temperatura": 24.387548944135865,
+      "temperatura_media": 24.868510663509365
+    },
+    {
+      "data_hora_utc": "2026-10-14T15:05:00Z",
+      "data_hora_local": "2026-10-14T12:05:00-0300",
+      "bateria": 4.182103825136612,
+      "radiacao_solar": 217.44071779534295,
+      "radiacao_solar_media": 282.19265937805176,
+      "temperatura": 26.031653367336034,
+      "temperatura_media": 25.32573044300079
+    },
+    {
+      "data_hora_utc": "2026-10-14T15:10:00Z",
+      "data_hora_local": "2026-10-14T12:10:00-0300",
+      "bateria": 4.230191256830602,
+      "radiacao_solar": 204.23718985564756,
+      "radiacao_solar_media": 200.65374374389648,
+      "temperatura": 25.890730131061737,
+      "temperatura_media": 26.09428465366363
+    },
+    {
+      "data_hora_utc": "2026-10-14T15:15:00Z",
+      "data_hora_local": "2026-10-14T12:15:00-0300",
+      "bateria": 4.248224043715847,
+      "radiacao_solar": 273.06741538743245,
+      "radiacao_solar_media": 235.79282760620117,
+      "temperatura": 24.990387232642597,
+      "temperatura_media": 25.387582182884213
+    },
+    {
+      "data_hora_utc": "2026-10-14T15:20:00Z",
+      "data_hora_local": "2026-10-14T12:20:00-0300",
+      "bateria": 4.219672131147541,
+      "radiacao_solar": 318.22504348887605,
+      "radiacao_solar_media": 309.31849479675293,
+      "temperatura": 24.606762867229218,
+      "temperatura_media": 24.610154330730435
+    },
+    {
+      "data_hora_utc": "2026-10-14T15:25:00Z",
+      "data_hora_local": "2026-10-14T12:25:00-0300",
+      "bateria": 4.218169398907104,
+      "radiacao_solar": 276.27063814203314,
+      "radiacao_solar_media": 276.48677825927734,
+      "temperatura": 25.006045370006404,
+      "temperatura_media": 25.104951858520504
+    },
+    {
+      "data_hora_utc": "2026-10-14T15:30:00Z",
+      "data_hora_local": "2026-10-14T12:30:00-0300",
+      "bateria": 4.245218579234973,
+      "radiacao_solar": 277.5988036744286,
+      "radiacao_solar_media": 290.1017189025879,
+      "temperatura": 25.1391395375988,
+      "temperatura_media": 24.859640002250668
+    },
+    {
+      "data_hora_utc": "2026-10-14T15:35:00Z",
+      "data_hora_local": "2026-10-14T12:35:00-0300",
+      "bateria": 4.221174863387978,
+      "radiacao_solar": 190.56489761040075,
+      "radiacao_solar_media": 227.18839645385742,
+      "temperatura": 26.462252144840843,
+      "temperatura_media": 25.916308164596554
+    },
+    {
+      "data_hora_utc": "2026-10-14T15:40:00Z",
+      "data_hora_local": "2026-10-14T12:40:00-0300",
+      "bateria": 4.23620218579235,
+      "radiacao_solar": 219.62828455458236,
+      "radiacao_solar_media": 194.75255012512207,
+      "temperatura": 25.8359266502884,
+      "temperatura_media": 26.21563374996185
+    },
+    {
+      "data_hora_utc": "2026-10-14T15:45:00Z",
+      "data_hora_local": "2026-10-14T12:45:00-0300",
+      "bateria": 4.204644808743169,
+      "radiacao_solar": 284.8646504104739,
+      "radiacao_solar_media": 260.88738441467285,
+      "temperatura": 24.94341282055116,
+      "temperatura_media": 25.37896931171417
+    },
+    {
+      "data_hora_utc": "2026-10-14T15:50:00Z",
+      "data_hora_local": "2026-10-14T12:50:00-0300",
+      "bateria": 4.221174863387978,
+      "radiacao_solar": 177.595751823481,
+      "radiacao_solar_media": 234.02457237243652,
+      "temperatura": 26.595346312433232,
+      "temperatura_media": 25.70700645446777
+    },
+    {
+      "data_hora_utc": "2026-10-14T15:55:00Z",
+      "data_hora_local": "2026-10-14T12:55:00-0300",
+      "bateria": 4.218169398907104,
+      "radiacao_solar": 151.26682332834866,
+      "radiacao_solar_media": 155.07426261901855,
+      "temperatura": 26.853705578936122,
+      "temperatura_media": 26.930692791938778
+    },
+    {
+      "data_hora_utc": "2026-10-14T16:00:00Z",
+      "data_hora_local": "2026-10-14T13:00:00-0300",
+      "bateria": 4.212158469945355,
+      "radiacao_solar": 130.95370342112494,
+      "radiacao_solar_media": 147.3109245300293,
+      "temperatura": 26.493568419568465,
+      "temperatura_media": 26.71408653259277
+    },
+    {
+      "data_hora_utc": "2026-10-14T16:05:00Z",
+      "data_hora_local": "2026-10-14T13:05:00-0300",
+      "bateria": 4.209153005464481,
+      "radiacao_solar": 104.62477492599271,
+      "radiacao_solar_media": 111.92703247070312,
+      "temperatura": 25.342695323328346,
+      "temperatura_media": 25.649330019950863
+    },
+    {
+      "data_hora_utc": "2026-10-14T16:10:00Z",
+      "data_hora_local": "2026-10-14T13:10:00-0300",
+      "bateria": 4.213661202185793,
+      "radiacao_solar": 145.4853968932158,
+      "radiacao_solar_media": 119.24247741699219,
+      "temperatura": 26.603175381115147,
+      "temperatura_media": 25.856283307075497
+    },
+    {
+      "data_hora_utc": "2026-10-14T16:15:00Z",
+      "data_hora_local": "2026-10-14T13:15:00-0300",
+      "bateria": 4.242213114754098,
+      "radiacao_solar": 220.56581316568509,
+      "radiacao_solar_media": 200.1016616821289,
+      "temperatura": 25.718490620059814,
+      "temperatura_media": 25.95727443695068
+    },
+    {
+      "data_hora_utc": "2026-10-14T16:20:00Z",
+      "data_hora_local": "2026-10-14T13:20:00-0300",
+      "bateria": 4.212158469945355,
+      "radiacao_solar": 180.40833765678894,
+      "radiacao_solar_media": 192.4478054046631,
+      "temperatura": 26.3996195953856,
+      "temperatura_media": 26.17309987545013
+    },
+    {
+      "data_hora_utc": "2026-10-14T16:25:00Z",
+      "data_hora_local": "2026-10-14T13:25:00-0300",
+      "bateria": 4.224180327868853,
+      "radiacao_solar": 137.04763939329212,
+      "radiacao_solar_media": 178.3926486968994,
+      "temperatura": 26.744098617389447,
+      "temperatura_media": 26.391261816024777
+    },
+    {
+      "data_hora_utc": "2026-10-14T16:30:00Z",
+      "data_hora_local": "2026-10-14T13:30:00-0300",
+      "bateria": 4.203142076502733,
+      "radiacao_solar": 125.09414960173353,
+      "radiacao_solar_media": 112.65630722045898,
+      "temperatura": 26.102114985473186,
+      "temperatura_media": 25.724753737449642
+    },
+    {
+      "data_hora_utc": "2026-10-14T16:35:00Z",
+      "data_hora_local": "2026-10-14T13:35:00-0300",
+      "bateria": 4.207650273224044,
+      "radiacao_solar": 110.24994659260841,
+      "radiacao_solar_media": 128.93543243408203,
+      "temperatura": 25.397498804101687,
+      "temperatura_media": 26.115685701370236
+    },
+    {
+      "data_hora_utc": "2026-10-14T16:40:00Z",
+      "data_hora_local": "2026-10-14T13:40:00-0300",
+      "bateria": 4.191120218579235,
+      "radiacao_solar": 79.70213934751433,
+      "radiacao_solar_media": 85.28561592102051,
+      "temperatura": 24.732027966139714,
+      "temperatura_media": 24.81397539377212
+    },
+    {
+      "data_hora_utc": "2026-10-14T16:45:00Z",
+      "data_hora_local": "2026-10-14T13:45:00-0300",
+      "bateria": 4.204644808743169,
+      "radiacao_solar": 102.98409985656303,
+      "radiacao_solar_media": 93.67647171020508,
+      "temperatura": 24.974729095278782,
+      "temperatura_media": 24.836416542530056
+    },
+    {
+      "data_hora_utc": "2026-10-14T16:50:00Z",
+      "data_hora_local": "2026-10-14T13:50:00-0300",
+      "bateria": 4.189617486338798,
+      "radiacao_solar": 109.85930967131566,
+      "radiacao_solar_media": 107.2967529296875,
+      "temperatura": 25.389669735419776,
+      "temperatura_media": 25.190812349319454
+    },
+    {
+      "data_hora_utc": "2026-10-14T16:55:00Z",
+      "data_hora_local": "2026-10-14T13:55:00-0300",
+      "bateria": 4.204644808743169,
+      "radiacao_solar": 103.92162846766564,
+      "radiacao_solar_media": 108.59885215759277,
+      "temperatura": 25.193943018372142,
+      "temperatura_media": 25.35808980464935
+    },
+    {
+      "data_hora_utc": "2026-10-14T17:00:00Z",
+      "data_hora_local": "2026-10-14T14:00:00-0300",
+      "bateria": 4.192622950819673,
+      "radiacao_solar": 98.29645680104989,
+      "radiacao_solar_media": 100.41890144348145,
+      "temperatura": 24.92775468318735,
+      "temperatura_media": 24.990648031234738
+    },
+    {
+      "data_hora_utc": "2026-10-14T17:05:00Z",
+      "data_hora_local": "2026-10-14T14:05:00-0300",
+      "bateria": 4.200136612021859,
+      "radiacao_solar": 80.09277626880709,
+      "radiacao_solar_media": 91.08271598815918,
+      "temperatura": 24.84163492768639,
+      "temperatura_media": 24.921752512454983
+    },
+    {
+      "data_hora_utc": "2026-10-14T17:10:00Z",
+      "data_hora_local": "2026-10-14T14:10:00-0300",
+      "bateria": 4.189617486338798,
+      "radiacao_solar": 73.37382122257151,
+      "radiacao_solar_media": 74.23057556152344,
+      "temperatura": 24.8572930650502,
+      "temperatura_media": 24.83458667993545
+    },
+    {
+      "data_hora_utc": "2026-10-14T17:15:00Z",
+      "data_hora_local": "2026-10-14T14:15:00-0300",
+      "bateria": 4.198633879781421,
+      "radiacao_solar": 76.26453444013794,
+      "radiacao_solar_media": 73.89726638793945,
+      "temperatura": 24.896438408459726,
+      "temperatura_media": 24.90296065807342
+    },
+    {
+      "data_hora_utc": "2026-10-14T17:20:00Z",
+      "data_hora_local": "2026-10-14T14:20:00-0300",
+      "bateria": 4.186612021857924,
+      "radiacao_solar": 99.70274971770385,
+      "radiacao_solar_media": 87.58258819580078,
+      "temperatura": 24.93558375186926,
+      "temperatura_media": 24.935582280158993
+    },
+    {
+      "data_hora_utc": "2026-10-14T17:25:00Z",
+      "data_hora_local": "2026-10-14T14:25:00-0300",
+      "bateria": 4.213661202185793,
+      "radiacao_solar": 142.59468367564932,
+      "radiacao_solar_media": 121.29716873168945,
+      "temperatura": 26.470081213522747,
+      "temperatura_media": 25.896471738815304
+    },
+    {
+      "data_hora_utc": "2026-10-14T17:30:00Z",
+      "data_hora_local": "2026-10-14T14:30:00-0300",
+      "bateria": 4.198633879781421,
+      "radiacao_solar": 135.1725821710868,
+      "radiacao_solar_media": 147.337007522583,
+      "temperatura": 26.697124205298014,
+      "temperatura_media": 26.54471397399902
+    },
+    {
+      "data_hora_utc": "2026-10-14T17:35:00Z",
+      "data_hora_local": "2026-10-14T14:35:00-0300",
+      "bateria": 4.22568306010929,
+      "radiacao_solar": 154.5481734672079,
+      "radiacao_solar_media": 141.0789966583252,
+      "temperatura": 26.79890209816278,
+      "temperatura_media": 26.82290971279144
+    },
+    {
+      "data_hora_utc": "2026-10-14T17:40:00Z",
+      "data_hora_local": "2026-10-14T14:40:00-0300",
+      "bateria": 4.228688524590164,
+      "radiacao_solar": 178.37702566606652,
+      "radiacao_solar_media": 164.9599552154541,
+      "temperatura": 26.407448664067502,
+      "temperatura_media": 26.676768064498898
+    },
+    {
+      "data_hora_utc": "2026-10-14T17:45:00Z",
+      "data_hora_local": "2026-10-14T14:45:00-0300",
+      "bateria": 4.219672131147541,
+      "radiacao_solar": 205.40910061952582,
+      "radiacao_solar_media": 194.1275119781494,
+      "temperatura": 25.88290106237983,
+      "temperatura_media": 26.083326339721676
+    },
+    {
+      "data_hora_utc": "2026-10-14T17:50:00Z",
+      "data_hora_local": "2026-10-14T14:50:00-0300",
+      "bateria": 4.243715846994536,
+      "radiacao_solar": 315.959349345378,
+      "radiacao_solar_media": 254.67886924743652,
+      "temperatura": 24.64590821063875,
+      "temperatura_media": 25.342959165573117
+    },
+    {
+      "data_hora_utc": "2026-10-14T17:55:00Z",
+      "data_hora_local": "2026-10-14T14:55:00-0300",
+      "bateria": 4.212158469945355,
+      "radiacao_solar": 372.9923398541216,
+      "radiacao_solar_media": 334.136962890625,
+      "temperatura": 24.144847814996794,
+      "temperatura_media": 24.49376434087753
+    },
+    {
+      "data_hora_utc": "2026-10-14T18:00:00Z",
+      "data_hora_local": "2026-10-14T15:00:00-0300",
+      "bateria": 4.2377049180327875,
+      "radiacao_solar": 363.148289437544,
+      "radiacao_solar_media": 356.4944267272949,
+      "temperatura": 24.849463996368296,
+      "temperatura_media": 24.70462769269943
+    },
+    {
+      "data_hora_utc": "2026-10-14T18:05:00Z",
+      "data_hora_local": "2026-10-14T15:05:00-0300",
+      "bateria": 4.248224043715847,
+      "radiacao_solar": 275.64561906796484,
+      "radiacao_solar_media": 289.81008529663086,
+      "temperatura": 26.156918466246527,
+      "temperatura_media": 25.857844948768612
+    },
+    {
+      "data_hora_utc": "2026-10-14T18:10:00Z",
+      "data_hora_local": "2026-10-14T15:10:00-0300",
+      "bateria": 4.180601092896175,
+      "radiacao_solar": 363.6170537430953,
+      "radiacao_solar_media": 338.6918067932129,
+      "temperatura": 24.849463996368296,
+      "temperatura_media": 25.254747271537777
+    },
+    {
+      "data_hora_utc": "2026-10-14T18:15:00Z",
+      "data_hora_local": "2026-10-14T15:15:00-0300",
+      "bateria": 4.219672131147541,
+      "radiacao_solar": 337.44438001648007,
+      "radiacao_solar_media": 347.1451759338379,
+      "temperatura": 24.802489584276863,
+      "temperatura_media": 24.840852618217465
+    },
+    {
+      "data_hora_utc": "2026-10-14T18:20:00Z",
+      "data_hora_local": "2026-10-14T15:20:00-0300",
+      "bateria": 4.203142076502733,
+      "radiacao_solar": 318.4594256416517,
+      "radiacao_solar_media": 337.1683120727539,
+      "temperatura": 24.794660515594956,
+      "temperatura_media": 24.709585309028622
+    },
+    {
+      "data_hora_utc": "2026-10-14T18:25:00Z",
+      "data_hora_local": "2026-10-14T15:25:00-0300",
+      "bateria": 4.243715846994536,
+      "radiacao_solar": 276.58314767906745,
+      "radiacao_solar_media": 385.9354496002197,
+      "temperatura": 25.671516207968384,
+      "temperatura_media": 24.754212796688076
+    },
+    {
+      "data_hora_utc": "2026-10-14T18:30:00Z",
+      "data_hora_local": "2026-10-14T15:30:00-0300",
+      "bateria": 4.252732240437159,
+      "radiacao_solar": 283.14584795678593,
+      "radiacao_solar_media": 267.29111671447754,
+      "temperatura": 25.671516207968384,
+      "temperatura_media": 25.946575403213497
+    },
+    {
+      "data_hora_utc": "2026-10-14T18:35:00Z",
+      "data_hora_local": "2026-10-14T15:35:00-0300",
+      "bateria": 4.2106557377049185,
+      "radiacao_solar": 252.12927640614032,
+      "radiacao_solar_media": 257.004451751709,
+      "temperatura": 25.953362680516985,
+      "temperatura_media": 26.012074947357174
+    },
+    {
+      "data_hora_utc": "2026-10-14T18:40:00Z",
+      "data_hora_local": "2026-10-14T15:40:00-0300",
+      "bateria": 4.198633879781421,
+      "radiacao_solar": 272.6767784661397,
+      "radiacao_solar_media": 268.4812545776367,
+      "temperatura": 25.358353460692154,
+      "temperatura_media": 25.51597952842712
+    },
+    {
+      "data_hora_utc": "2026-10-14T18:45:00Z",
+      "data_hora_local": "2026-10-14T15:45:00-0300",
+      "bateria": 4.224180327868853,
+      "radiacao_solar": 275.5674916837062,
+      "radiacao_solar_media": 267.87195205688477,
+      "temperatura": 25.397498804101687,
+      "temperatura_media": 25.481793284416195
+    },
+    {
+      "data_hora_utc": "2026-10-14T18:50:00Z",
+      "data_hora_local": "2026-10-14T15:50:00-0300",
+      "bateria": 4.206147540983607,
+      "radiacao_solar": 250.5667287209693,
+      "radiacao_solar_media": 269.9188232421875,
+      "temperatura": 25.616712727195043,
+      "temperatura_media": 25.45099556446075
+    },
+    {
+      "data_hora_utc": "2026-10-14T18:55:00Z",
+      "data_hora_local": "2026-10-14T15:55:00-0300",
+      "bateria": 4.23620218579235,
+      "radiacao_solar": 186.0335093234046,
+      "radiacao_solar_media": 218.08652877807617,
+      "temperatura": 26.55620096902371,
+      "temperatura_media": 26.06635987758636
+    },
+    {
+      "data_hora_utc": "2026-10-14T19:00:00Z",
+      "data_hora_local": "2026-10-14T16:00:00-0300",
+      "bateria": 4.219672131147541,
+      "radiacao_solar": 252.05114902188177,
+      "radiacao_solar_media": 206.54711723327637,
+      "temperatura": 25.58539645246742,
+      "temperatura_media": 26.239907741546627
+    },
+    {
+      "data_hora_utc": "2026-10-14T19:05:00Z",
+      "data_hora_local": "2026-10-14T16:05:00-0300",
+      "bateria": 4.204644808743169,
+      "radiacao_solar": 226.8941312906279,
+      "radiacao_solar_media": 251.21779441833496,
+      "temperatura": 25.922046405789363,
+      "temperatura_media": 25.562953948974606
+    },
+    {
+      "data_hora_utc": "2026-10-14T19:10:00Z",
+      "data_hora_local": "2026-10-14T16:10:00-0300",
+      "bateria": 4.245218579234973,
+      "radiacao_solar": 182.12714011047706,
+      "radiacao_solar_media": 197.5468635559082,
+      "temperatura": 26.55620096902371,
+      "temperatura_media": 26.366999745368954
+    },
+    {
+      "data_hora_utc": "2026-10-14T19:15:00Z",
+      "data_hora_local": "2026-10-14T16:15:00-0300",
+      "bateria": 4.2377049180327875,
+      "radiacao_solar": 118.4533219397565,
+      "radiacao_solar_media": 144.07377243041992,
+      "temperatura": 25.890730131061737,
+      "temperatura_media": 26.608130335807797
+    },
+    {
+      "data_hora_utc": "2026-10-14T19:20:00Z",
+      "data_hora_local": "2026-10-14T16:20:00-0300",
+      "bateria": 4.221174863387978,
+      "radiacao_solar": 121.03152562028879,
+      "radiacao_solar_media": 99.61671829223633,
+      "temperatura": 25.499276696966458,
+      "temperatura_media": 25.174367427825924
+    },
+    {
+      "data_hora_utc": "2026-10-14T19:25:00Z",
+      "data_hora_local": "2026-10-14T16:25:00-0300",
+      "bateria": 4.2106557377049185,
+      "radiacao_solar": 74.78011413922553,
+      "radiacao_solar_media": 108.7578296661377,
+      "temperatura": 23.996095510040586,
+      "temperatura_media": 24.84398633241653
+    },
+    {
+      "data_hora_utc": "2026-10-14T19:30:00Z",
+      "data_hora_local": "2026-10-14T16:30:00-0300",
+      "bateria": 4.206147540983607,
+      "radiacao_solar": 59.23276467177345,
+      "radiacao_solar_media": 64.64705467224121,
+      "temperatura": 23.612471144627214,
+      "temperatura_media": 23.73094707727432
+    },
+    {
+      "data_hora_utc": "2026-10-14T19:35:00Z",
+      "data_hora_local": "2026-10-14T16:35:00-0300",
+      "bateria": 4.198633879781421,
+      "radiacao_solar": 66.96737571337019,
+      "radiacao_solar_media": 59.65986251831055,
+      "temperatura": 23.682932762764363,
+      "temperatura_media": 23.59315901994705
+    },
+    {
+      "data_hora_utc": "2026-10-14T19:40:00Z",
+      "data_hora_local": "2026-10-14T16:40:00-0300",
+      "bateria": 4.207650273224044,
+      "radiacao_solar": 83.68663594470053,
+      "radiacao_solar_media": 74.49889183044434,
+      "temperatura": 23.620300213309118,
+      "temperatura_media": 23.638306558132168
+    },
+    {
+      "data_hora_utc": "2026-10-14T19:45:00Z",
+      "data_hora_local": "2026-10-14T16:45:00-0300",
+      "bateria": 4.201639344262295,
+      "radiacao_solar": 74.38947721793267,
+      "radiacao_solar_media": 80.99908828735352,
+      "temperatura": 23.628129281991026,
+      "temperatura_media": 23.61899763345718
+    },
+    {
+      "data_hora_utc": "2026-10-14T19:50:00Z",
+      "data_hora_local": "2026-10-14T16:50:00-0300",
+      "bateria": 4.207650273224044,
+      "radiacao_solar": 80.95217749565114,
+      "radiacao_solar_media": 75.61860084533691,
+      "temperatura": 23.67510369408246,
+      "temperatura_media": 23.61403703689575
+    },
+    {
+      "data_hora_utc": "2026-10-14T19:55:00Z",
+      "data_hora_local": "2026-10-14T16:55:00-0300",
+      "bateria": 4.206147540983607,
+      "radiacao_solar": 113.92193365276046,
+      "radiacao_solar_media": 98.50482940673828,
+      "temperatura": 24.779002378231144,
+      "temperatura_media": 24.137802422046658
+    },
+    {
+      "data_hora_utc": "2026-10-14T20:00:00Z",
+      "data_hora_local": "2026-10-14T17:00:00-0300",
+      "bateria": 4.224180327868853,
+      "radiacao_solar": 124.70351268044078,
+      "radiacao_solar_media": 122.88579940795898,
+      "temperatura": 24.825976790322578,
+      "temperatura_media": 24.881039559841152
+    },
+    {
+      "data_hora_utc": "2026-10-14T20:05:00Z",
+      "data_hora_local": "2026-10-14T17:05:00-0300",
+      "bateria": 4.218169398907104,
+      "radiacao_solar": 129.70366527298813,
+      "radiacao_solar_media": 125.24518966674805,
+      "temperatura": 24.724198897457804,
+      "temperatura_media": 24.762821197509762
+    },
+    {
+      "data_hora_utc": "2026-10-14T20:10:00Z",
+      "data_hora_local": "2026-10-14T17:10:00-0300",
+      "bateria": 4.224180327868853,
+      "radiacao_solar": 110.09369182409137,
+      "radiacao_solar_media": 118.42460632324219,
+      "temperatura": 24.387548944135865,
+      "temperatura_media": 24.559266865253445
+    },
+    {
+      "data_hora_utc": "2026-10-14T20:15:00Z",
+      "data_hora_local": "2026-10-14T17:15:00-0300",
+      "bateria": 4.2106557377049185,
+      "radiacao_solar": 95.79638050477615,
+      "radiacao_solar_media": 101.27573013305664,
+      "temperatura": 23.643787419354837,
+      "temperatura_media": 23.96999597549438
+    },
+    {
+      "data_hora_utc": "2026-10-14T20:20:00Z",
+      "data_hora_local": "2026-10-14T17:20:00-0300",
+      "bateria": 4.209153005464481,
+      "radiacao_solar": 81.499069185461,
+      "radiacao_solar_media": 89.28565979003906,
+      "temperatura": 23.213188641850028,
+      "temperatura_media": 23.460584878921505
+    },
+    {
+      "data_hora_utc": "2026-10-14T20:25:00Z",
+      "data_hora_local": "2026-10-14T17:25:00-0300",
+      "bateria": 4.198633879781421,
+      "radiacao_solar": 71.73314615314189,
+      "radiacao_solar_media": 76.3270378112793,
+      "temperatura": 23.103581680303353,
+      "temperatura_media": 23.080876469612118
+    },
+    {
+      "data_hora_utc": "2026-10-14T20:30:00Z",
+      "data_hora_local": "2026-10-14T17:30:00-0300",
+      "bateria": 4.201639344262295,
+      "radiacao_solar": 70.63936277352212,
+      "radiacao_solar_media": 73.14453125,
+      "temperatura": 22.993974718756675,
+      "temperatura_media": 23.000498116016384
+    },
+    {
+      "data_hora_utc": "2026-10-14T20:35:00Z",
+      "data_hora_local": "2026-10-14T17:35:00-0300",
+      "bateria": 4.189617486338798,
+      "radiacao_solar": 59.389019440290554,
+      "radiacao_solar_media": 63.26155662536621,
+      "temperatura": 22.743444520935693,
+      "temperatura_media": 22.826693952083584
+    },
+    {
+      "data_hora_utc": "2026-10-14T20:40:00Z",
+      "data_hora_local": "2026-10-14T17:40:00-0300",
+      "bateria": 4.1941256830601095,
+      "radiacao_solar": 54.701376384777404,
+      "radiacao_solar_media": 55.92803955078125,
+      "temperatura": 22.798248001709034,
+      "temperatura_media": 22.754926979541775
+    },
+    {
+      "data_hora_utc": "2026-10-14T20:45:00Z",
+      "data_hora_local": "2026-10-14T17:45:00-0300",
+      "bateria": 4.186612021857924,
+      "radiacao_solar": 57.904599139378035,
+      "radiacao_solar_media": 56.10766410827637,
+      "temperatura": 22.743444520935693,
+      "temperatura_media": 22.727002203464505
+    },
+    {
+      "data_hora_utc": "2026-10-14T20:50:00Z",
+      "data_hora_local": "2026-10-14T17:50:00-0300",
+      "bateria": 4.189617486338798,
+      "radiacao_solar": 49.70122379223005,
+      "radiacao_solar_media": 53.597164154052734,
+      "temperatura": 22.657324765434737,
+      "temperatura_media": 22.721259295940396
+    },
+    {
+      "data_hora_utc": "2026-10-14T20:55:00Z",
+      "data_hora_local": "2026-10-14T17:55:00-0300",
+      "bateria": 4.179098360655738,
+      "radiacao_solar": 43.216650898770126,
+      "radiacao_solar_media": 47.15423583984375,
+      "temperatura": 22.71212824620807,
+      "temperatura_media": 22.643753886222836
+    },
+    {
+      "data_hora_utc": "2026-10-14T21:00:00Z",
+      "data_hora_local": "2026-10-14T18:00:00-0300",
+      "bateria": 4.180601092896175,
+      "radiacao_solar": 31.57567064424569,
+      "radiacao_solar_media": 36.58099174499512,
+      "temperatura": 22.532059666524244,
+      "temperatura_media": 22.568595409393307
+    },
+    {
+      "data_hora_utc": "2026-10-14T21:05:00Z",
+      "data_hora_local": "2026-10-14T18:05:00-0300",
+      "bateria": 4.17308743169399,
+      "radiacao_solar": 27.669301431318047,
+      "radiacao_solar_media": 29.585981369018555,
+      "temperatura": 22.485085254432814,
+      "temperatura_media": 22.510400414466854
+    },
+    {
+      "data_hora_utc": "2026-10-14T21:10:00Z",
+      "data_hora_local": "2026-10-14T18:10:00-0300",
+      "bateria": 4.1670765027322405,
+      "radiacao_solar": 21.18472853785829,
+      "radiacao_solar_media": 24.80459213256836,
+      "temperatura": 22.477256185750903,
+      "temperatura_media": 22.498393058776852
+    },
+    {
+      "data_hora_utc": "2026-10-14T21:15:00Z",
+      "data_hora_local": "2026-10-14T18:15:00-0300",
+      "bateria": 4.165573770491804,
+      "radiacao_solar": 13.371990112002948,
+      "radiacao_solar_media": 16.51005744934082,
+      "temperatura": 22.50074339179662,
+      "temperatura_media": 22.476471960544583
+    },
+    {
+      "data_hora_utc": "2026-10-14T21:20:00Z",
+      "data_hora_local": "2026-10-14T18:20:00-0300",
+      "bateria": 4.1670765027322405,
+      "radiacao_solar": 11.41880550553907,
+      "radiacao_solar_media": 12.285995483398438,
+      "temperatura": 22.43811084234138,
+      "temperatura_media": 22.459512948989865
+    },
+    {
+      "data_hora_utc": "2026-10-14T21:25:00Z",
+      "data_hora_local": "2026-10-14T18:25:00-0300",
+      "bateria": 4.161065573770492,
+      "radiacao_solar": 10.871913815729272,
+      "radiacao_solar_media": 11.220932006835938,
+      "temperatura": 22.375478292886132,
+      "temperatura_media": 22.378611564636227
+    },
+    {
+      "data_hora_utc": "2026-10-14T21:30:00Z",
+      "data_hora_local": "2026-10-14T18:30:00-0300",
+      "bateria": 4.161065573770492,
+      "radiacao_solar": 12.825098422193037,
+      "radiacao_solar_media": 11.082839965820312,
+      "temperatura": 22.312845743430888,
+      "temperatura_media": 22.32771962881088
+    },
+    {
+      "data_hora_utc": "2026-10-14T21:35:00Z",
+      "data_hora_local": "2026-10-14T18:35:00-0300",
+      "bateria": 4.158060109289618,
+      "radiacao_solar": 9.778130436109507,
+      "radiacao_solar_media": 11.192178726196289,
+      "temperatura": 22.258042262657547,
+      "temperatura_media": 22.287009656429287
+    },
+    {
+      "data_hora_utc": "2026-10-14T21:40:00Z",
+      "data_hora_local": "2026-10-14T18:40:00-0300",
+      "bateria": 4.1535519125683065,
+      "radiacao_solar": 5.793633838923256,
+      "radiacao_solar_media": 7.288455963134766,
+      "temperatura": 22.164093438474683,
+      "temperatura_media": 22.216807305812832
+    },
+    {
+      "data_hora_utc": "2026-10-14T21:45:00Z",
+      "data_hora_local": "2026-10-14T18:45:00-0300",
+      "bateria": 4.1535519125683065,
+      "radiacao_solar": 3.9967040009765924,
+      "radiacao_solar_media": 4.790973663330078,
+      "temperatura": 22.085802751655628,
+      "temperatura_media": 22.116336226463314
+    },
+    {
+      "data_hora_utc": "2026-10-14T21:50:00Z",
+      "data_hora_local": "2026-10-14T18:50:00-0300",
+      "bateria": 4.156557377049181,
+      "radiacao_solar": 2.199774163029929,
+      "radiacao_solar_media": 3.2335758209228516,
+      "temperatura": 21.99185392747276,
+      "temperatura_media": 22.029693424701687
+    },
+    {
+      "data_hora_utc": "2026-10-14T21:55:00Z",
+      "data_hora_local": "2026-10-14T18:55:00-0300",
+      "bateria": 4.1535519125683065,
+      "radiacao_solar": 1.8091372417371758,
+      "radiacao_solar_media": 2.616405487060547,
+      "temperatura": 21.913563240653705,
+      "temperatura_media": 21.948271989822384
+    },
+    {
+      "data_hora_utc": "2026-10-14T22:00:00Z",
+      "data_hora_local": "2026-10-14T19:00:00-0300",
+      "bateria": 4.1535519125683065,
+      "radiacao_solar": 1.8091372417371758,
+      "radiacao_solar_media": 1.8404006958007812,
+      "temperatura": 21.858759759880368,
+      "temperatura_media": 21.88276648521423
+    },
+    {
+      "data_hora_utc": "2026-10-14T22:05:00Z",
+      "data_hora_local": "2026-10-14T19:05:00-0300",
+      "bateria": 4.152049180327869,
+      "radiacao_solar": 1.4185003204444229,
+      "radiacao_solar_media": 1.7673969268798828,
+      "temperatura": 21.79612721042512,
+      "temperatura_media": 21.804478764533993
+    },
+    {
+      "data_hora_utc": "2026-10-14T22:10:00Z",
+      "data_hora_local": "2026-10-14T19:10:00-0300",
+      "bateria": 4.149043715846995,
+      "radiacao_solar": 1.4185003204444229,
+      "radiacao_solar_media": 1.83258056640625,
+      "temperatura": 21.71000745492416,
+      "temperatura_media": 21.737149357795712
+    },
+    {
+      "data_hora_utc": "2026-10-14T22:15:00Z",
+      "data_hora_local": "2026-10-14T19:15:00-0300",
+      "bateria": 4.149043715846995,
+      "radiacao_solar": 1.7310098574785684,
+      "radiacao_solar_media": 1.7674922943115234,
+      "temperatura": 21.639545836787008,
+      "temperatura_media": 21.66616320610046
+    },
+    {
+      "data_hora_utc": "2026-10-14T22:20:00Z",
+      "data_hora_local": "2026-10-14T19:20:00-0300",
+      "bateria": 4.150546448087432,
+      "radiacao_solar": 1.8091372417371758,
+      "radiacao_solar_media": 1.8352985382080078,
+      "temperatura": 21.576913287331763,
+      "temperatura_media": 21.598049998283383
+    },
+    {
+      "data_hora_utc": "2026-10-14T22:25:00Z",
+      "data_hora_local": "2026-10-14T19:25:00-0300",
+      "bateria": 4.149043715846995,
+      "radiacao_solar": 1.8872646259956696,
+      "radiacao_solar_media": 2.056550979614258,
+      "temperatura": 21.45947725710318,
+      "temperatura_media": 21.51428163051605
+    },
+    {
+      "data_hora_utc": "2026-10-14T22:30:00Z",
+      "data_hora_local": "2026-10-14T19:30:00-0300",
+      "bateria": 4.149043715846995,
+      "radiacao_solar": 1.965392010254277,
+      "radiacao_solar_media": 1.9054889678955078,
+      "temperatura": 21.396844707647936,
+      "temperatura_media": 21.42059057950973
+    },
+    {
+      "data_hora_utc": "2026-10-14T22:35:00Z",
+      "data_hora_local": "2026-10-14T19:35:00-0300",
+      "bateria": 4.146038251366121,
+      "radiacao_solar": 1.8091372417371758,
+      "radiacao_solar_media": 1.8586158752441406,
+      "temperatura": 21.295066814783166,
+      "temperatura_media": 21.331861615180966
+    },
+    {
+      "data_hora_utc": "2026-10-14T22:40:00Z",
+      "data_hora_local": "2026-10-14T19:40:00-0300",
+      "bateria": 4.146038251366121,
+      "radiacao_solar": 1.6528824732200178,
+      "radiacao_solar_media": 1.7857551574707031,
+      "temperatura": 21.193288921918395,
+      "temperatura_media": 21.238958835601803
+    },
+    {
+      "data_hora_utc": "2026-10-14T22:45:00Z",
+      "data_hora_local": "2026-10-14T19:45:00-0300",
+      "bateria": 4.146038251366121,
+      "radiacao_solar": 1.8872646259956696,
+      "radiacao_solar_media": 1.7596244812011719,
+      "temperatura": 21.07585289168981,
+      "temperatura_media": 21.13561481237411
+    },
+    {
+      "data_hora_utc": "2026-10-14T22:50:00Z",
+      "data_hora_local": "2026-10-14T19:50:00-0300",
+      "bateria": 4.146038251366121,
+      "radiacao_solar": 1.8872646259956696,
+      "radiacao_solar_media": 1.77001953125,
+      "temperatura": 21.03670754828028,
+      "temperatura_media": 21.060715615749356
+    },
+    {
+      "data_hora_utc": "2026-10-14T22:55:00Z",
+      "data_hora_local": "2026-10-14T19:55:00-0300",
+      "bateria": 4.141530054644809,
+      "radiacao_solar": 1.4966277047029166,
+      "radiacao_solar_media": 1.7388343811035156,
+      "temperatura": 20.919271518051698,
+      "temperatura_media": 20.98138183355331
+    },
+    {
+      "data_hora_utc": "2026-10-14T23:00:00Z",
+      "data_hora_local": "2026-10-14T20:00:00-0300",
+      "bateria": 4.141530054644809,
+      "radiacao_solar": 1.574755088961524,
+      "radiacao_solar_media": 1.7336368560791016,
+      "temperatura": 20.919271518051698,
+      "temperatura_media": 20.92788368463516
+    },
+    {
+      "data_hora_utc": "2026-10-14T23:05:00Z",
+      "data_hora_local": "2026-10-14T20:05:00-0300",
+      "bateria": 4.141530054644809,
+      "radiacao_solar": 1.965392010254277,
+      "radiacao_solar_media": 1.6971588134765625,
+      "temperatura": 20.880126174642164,
+      "temperatura_media": 20.855334401130673
+    },
+    {
+      "data_hora_utc": "2026-10-14T23:10:00Z",
+      "data_hora_local": "2026-10-14T20:10:00-0300",
+      "bateria": 4.143032786885247,
+      "radiacao_solar": 1.4185003204444229,
+      "radiacao_solar_media": 1.6190052032470703,
+      "temperatura": 20.778348281777394,
+      "temperatura_media": 20.803402364253994
+    },
+    {
+      "data_hora_utc": "2026-10-14T23:15:00Z",
+      "data_hora_local": "2026-10-14T20:15:00-0300",
+      "bateria": 4.141530054644809,
+      "radiacao_solar": 1.4966277047029166,
+      "radiacao_solar_media": 1.611185073852539,
+      "temperatura": 20.70005759495834,
+      "temperatura_media": 20.751208066940304
+    },
+    {
+      "data_hora_utc": "2026-10-14T23:20:00Z",
+      "data_hora_local": "2026-10-14T20:20:00-0300",
+      "bateria": 4.135519125683061,
+      "radiacao_solar": 1.7310098574785684,
+      "radiacao_solar_media": 1.6190052032470703,
+      "temperatura": 20.723544801004056,
+      "temperatura_media": 20.72276175022125
+    },
+    {
+      "data_hora_utc": "2026-10-14T23:25:00Z",
+      "data_hora_local": "2026-10-14T20:25:00-0300",
+      "bateria": 4.1400273224043715,
+      "radiacao_solar": 1.7310098574785684,
+      "radiacao_solar_media": 1.7439842224121094,
+      "temperatura": 20.67657038891262,
+      "temperatura_media": 20.690923929214474
+    },
+    {
+      "data_hora_utc": "2026-10-14T23:30:00Z",
+      "data_hora_local": "2026-10-14T20:30:00-0300",
+      "bateria": 4.138524590163935,
+      "radiacao_solar": 1.8872646259956696,
+      "radiacao_solar_media": 1.6658782958984375,
+      "temperatura": 20.637425045503097,
+      "temperatura_media": 20.667695999145504
+    },
+    {
+      "data_hora_utc": "2026-10-14T23:35:00Z",
+      "data_hora_local": "2026-10-14T20:35:00-0300",
+      "bateria": 4.131010928961749,
+      "radiacao_solar": 1.8091372417371758,
+      "radiacao_solar_media": 1.8013954162597656,
+      "temperatura": 20.582621564729756,
+      "temperatura_media": 20.63011676073074
+    },
+    {
+      "data_hora_utc": "2026-10-14T23:40:00Z",
+      "data_hora_local": "2026-10-14T20:40:00-0300",
+      "bateria": 4.134016393442623,
+      "radiacao_solar": 1.7310098574785684,
+      "radiacao_solar_media": 1.793527603149414,
+      "temperatura": 20.566963427365945,
+      "temperatura_media": 20.578706264495846
+    },
+    {
+      "data_hora_utc": "2026-10-14T23:45:00Z",
+      "data_hora_local": "2026-10-14T20:45:00-0300",
+      "bateria": 4.1400273224043715,
+      "radiacao_solar": 1.574755088961524,
+      "radiacao_solar_media": 1.7049312591552734,
+      "temperatura": 20.52781808395642,
+      "temperatura_media": 20.53851783275604
+    },
+    {
+      "data_hora_utc": "2026-10-14T23:50:00Z",
+      "data_hora_local": "2026-10-14T20:50:00-0300",
+      "bateria": 4.135519125683061,
+      "radiacao_solar": 1.4966277047029166,
+      "radiacao_solar_media": 1.7726898193359375,
+      "temperatura": 20.41821112240974,
+      "temperatura_media": 20.487107336521145
+    }
+  ]
+}
