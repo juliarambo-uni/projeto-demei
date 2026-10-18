@@ -44,13 +44,12 @@ for caminho_arquivo in arquivos_json: #percorre todos os arquivos .json encontra
     ):
         df_raw = pd.DataFrame(dados)
 
-        data_match = re.search(r"(\d{4}-\d{2}-\d{2})", caminho_arquivo.name) #pega a data do nome do arquivo
-        data_base = data_match.group(1) if data_match else "2026-10-01" #verifica se achou a data, se não coloca uma padrão pra não dar erro (ver com Carol)
-
         df_temp["timestamp"] = (
             pd.to_datetime(
-                data_base + " " + df_raw["Time"], format="%Y-%m-%d %I:%M %p", errors="coerce"
-            ) #data + horário
+                df_raw["Date"].astype(str) + " " + df_raw["Time"].astype(str),
+                format="%Y-%m-%d %I:%M %p",
+                errors="coerce"
+            )
             .dt.tz_localize(ZoneInfo("America/Sao_Paulo"))
             .dt.strftime("%Y-%m-%dT%H:%M:%S%z")
         )
