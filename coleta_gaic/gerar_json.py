@@ -15,7 +15,7 @@ from datetime import datetime
 
 from gaic_coletor import obter_dados_gaic
 
-horas = float(sys.argv[1]) if len(sys.argv) > 1 else 24
+horas = float(sys.argv[1]) if len(sys.argv) > 1 else 8736
 
 resultado = obter_dados_gaic(horas=horas)
 
