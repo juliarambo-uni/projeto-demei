@@ -71,7 +71,7 @@ for caminho_arquivo in arquivos_json: #percorre todos os arquivos .json encontra
             df_raw["Solar"].astype(str).str.extract(r"(\d+\.?\d*)")[0].astype(float)
         )
 
-        df_temp["estacao"] = "wu_floresta"
+        df_temp["estacao"] = "wu_ijui2"
         df_temp["fonte"] = "Weather Underground"
         df_temp["tipo_dado"] = "medido"
 
@@ -136,7 +136,7 @@ for caminho_arquivo in arquivos_json: #percorre todos os arquivos .json encontra
                 df_temp[col_destino] = pd.to_numeric(df_raw[col_origem], errors="coerce")
 
         # 3. Metadados totalmente fixos
-        df_temp["estacao"] = "gaic_centro"
+        df_temp["estacao"] = "gaic_unijui_sede"
         df_temp["fonte"] = "GAIC"
         df_temp["tipo_dado"] = "medido"
 
