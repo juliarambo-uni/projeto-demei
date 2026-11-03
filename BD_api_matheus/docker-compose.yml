@@ -1,5 +1,5 @@
-# Sobe um MongoDB local para desenvolvimento.
-#   docker compose up -d
+# Sobe a infraestrutura completa do projeto localmente.
+#   docker compose -f BD_api_matheus/docker-compose.yml up --build -d
 services:
   mongo:
     image: mongo:7
@@ -8,6 +8,47 @@ services:
       - "27017:27017"
     volumes:
       - mongo_dados:/data/db
+    healthcheck:
+      test: ["CMD", "mongosh", "--quiet", "--eval", "db.adminCommand('ping').ok"]
+      interval: 5s
+      timeout: 3s
+      retries: 15
+
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: demei_api
+    environment:
+      MONGO_URI: mongodb://mongo:27017
+      MONGO_DB: demei
+    ports:
+      - "8000:8000"
+    volumes:
+      - ../processamento_etl_poli/dados_padronizados:/dados_padronizados:ro
+    depends_on:
+      mongo:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/saude', timeout=3)"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 10s
+
+  dashboard:
+    build:
+      context: ../dashboard_diovana
+      dockerfile: Dockerfile
+    container_name: demei_dashboard
+    environment:
+      API_URL: http://api:8000
+      STREAMLIT_SERVER_HEADLESS: "true"
+    ports:
+      - "8501:8501"
+    depends_on:
+      api:
+        condition: service_healthy
 
 volumes:
   mongo_dados:
