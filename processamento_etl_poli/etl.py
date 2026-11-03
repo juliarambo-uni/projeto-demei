@@ -71,7 +71,7 @@ for caminho_arquivo in arquivos_json: #percorre todos os arquivos .json encontra
             df_raw["Solar"].astype(str).str.extract(r"(\d+\.?\d*)")[0].astype(float)
         )
 
-        df_temp["estacao"] = "wu_ijui2"
+        df_temp["estacao"] = "wu_iiju2"
         df_temp["fonte"] = "Weather Underground"
         df_temp["tipo_dado"] = "medido"
 
