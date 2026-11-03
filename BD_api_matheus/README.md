@@ -132,6 +132,36 @@ Um ano de dados brutos de uma estação passa de meio milhão de registros e
 trava a interface. O agregado faz a conta dentro do MongoDB e devolve poucos
 pontos.
 
+## Carregar os dados do ETL
+
+O ETL entrega um arquivo `.csv` ou `.json` no formato descrito acima, e o
+importador confere e grava:
+
+```bat
+REM confere o arquivo sem gravar nada
+python scripts\importar_dados.py dados_poli.csv --simular
+
+REM grava
+python scripts\importar_dados.py dados_poli.csv
+```
+
+O que ele confere antes de gravar:
+
+- campos obrigatórios presentes (`estacao`, `timestamp`, `variavel`, `fonte`, `tipo_dado`);
+- variável dentro da lista do padrão;
+- unidade batendo com a tabela do padrão;
+- `tipo_dado` entre `medido`, `tratado` e `estimado`;
+- `timestamp` com fuso explícito.
+
+Se houver qualquer erro, **nada é gravado** e ele lista o problema linha por
+linha. Para gravar só as linhas boas, use `--ignorar-erros`.
+
+A gravação usa upsert na chave única, então rodar o mesmo arquivo duas vezes
+não duplica nada — apenas atualiza.
+
+No CSV, célula vazia na coluna `valor` significa medição faltando. Vírgula
+decimal (`25,1`) é aceita.
+
 ## Dados de teste
 
 O script `scripts/gerar_dados_teste.py` cria estações e medições falsas no

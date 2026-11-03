@@ -1,0 +1,4 @@
+estacao,nome,latitude,longitude,altitude,fonte,variaveis,ativa
+gaic_unijui_sede,UNIJUÍ - Sede,-28.387994,-53.927673,,GAIC,irradiancia;temperatura,sim
+om_ijui,Ijuí (Open-Meteo),-28.365555,-53.93872,325,Open-Meteo,temperatura;umidade_relativa;precipitacao;velocidade_vento;direcao_vento;irradiancia,sim
+wu_iiju2,IIJU2 (Weather Underground),-28.39,-53.93,332,Weather Underground,temperatura;umidade_relativa;precipitacao;velocidade_vento;irradiancia,sim
